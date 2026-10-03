@@ -1,0 +1,17 @@
+{
+  "archive": {
+    "filename": "avalovia-reference-fresh-cloud-2-part-001.zip",
+    "bytes": 4234805,
+    "sha256": "ff49340791253bee96354e5bfce22cddb4065ba8d889e8586f1f4601b90a1bd5"
+  },
+  "part_size_bytes": 67108864,
+  "reference_count": 3,
+  "reference_bytes": 4234036,
+  "parts": [
+    {
+      "filename": "avalovia-reference-fresh-cloud-2-part-001.zip.part001",
+      "bytes": 4234805,
+      "sha256": "ff49340791253bee96354e5bfce22cddb4065ba8d889e8586f1f4601b90a1bd5"
+    }
+  ]
+}
