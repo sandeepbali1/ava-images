@@ -1,0 +1,25 @@
+{
+  "source": "fresh cloud3",
+  "reference_count": 3,
+  "total_reference_bytes": 4286487,
+  "references": [
+    {
+      "character_id": "ELV-000235",
+      "filename": "ELV-000235_ref.png",
+      "bytes": 1460744,
+      "sha256": "290f3e5fb3e293f02a94ec939a8c00428db67f4bba18e2b979689498f6b6b00d"
+    },
+    {
+      "character_id": "ELV-000673",
+      "filename": "ELV-000673_ref.png",
+      "bytes": 1404074,
+      "sha256": "ab40b12a645c14113af1f38ccf271ae8328b3ced73363b887180fb925b215782"
+    },
+    {
+      "character_id": "ELV-001055",
+      "filename": "ELV-001055_ref.png",
+      "bytes": 1421669,
+      "sha256": "e227d1ca5fbca409c07717d5058dc39ab33d7462934b2b96f39d61e63a97c4d0"
+    }
+  ]
+}
