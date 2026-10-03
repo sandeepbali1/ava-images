@@ -1,0 +1,340 @@
+{
+  "archive": {
+    "filename": "avalovia-old-cloud3-references.zip",
+    "bytes": 4391257076,
+    "sha256": "fd9b4e85686a00847c4133458f584f53f9be97714b00a18386a84bc82fcb0ba7"
+  },
+  "part_size_bytes": 67108864,
+  "parts": [
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part001",
+      "bytes": 67108864,
+      "sha256": "fdfefd404967184b8a03a817810d87892e1b3ce16c06815e1df638314af1243c"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part002",
+      "bytes": 67108864,
+      "sha256": "b5b119c7a542b374658caa92fd3213d4c58b983f858ec722898ed158842b2aa6"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part003",
+      "bytes": 67108864,
+      "sha256": "af7c08d0bb6ef1d3906f1b40877f8d699d3e2683c2d69741b84064b412ef235d"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part004",
+      "bytes": 67108864,
+      "sha256": "f82ab8f7f629fc0089182cd6b7e6c0b68a4e131f167121902df925c120a271e1"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part005",
+      "bytes": 67108864,
+      "sha256": "5b794eb1c3b7712d5faa719d655e0034a7309803ee9e9c74e1349ef8bb6b917d"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part006",
+      "bytes": 67108864,
+      "sha256": "4449a04969c956d18ea0d39613b22cc62c6da85656632d74bbd984b8fdedd2d9"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part007",
+      "bytes": 67108864,
+      "sha256": "6bf56409766b61314d16215d5551f4b24d09d75a03b54bc5daf6433b2d4000ec"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part008",
+      "bytes": 67108864,
+      "sha256": "26a0853fff2a74f08418c0cb0c3071098d82a7cd444b1a76f8bc3ccd34700b04"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part009",
+      "bytes": 67108864,
+      "sha256": "f7d94d013760019a2dca1e8f872676e32fbf65c9011c8490ba892253f2a1ca3d"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part010",
+      "bytes": 67108864,
+      "sha256": "918e74ca06e2720fe2b19b22220e881b54a769abca9be2f2327ae69fd5d86ffc"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part011",
+      "bytes": 67108864,
+      "sha256": "ed0ce09f746a4578788206ae91e52626c6efc86a710cdeb38f522976b9ad5218"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part012",
+      "bytes": 67108864,
+      "sha256": "6c1512f0b8dd43cf330cd098e17efb8a84190ab3507f3d7f3cf27a2bc86cd5e8"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part013",
+      "bytes": 67108864,
+      "sha256": "98c0b08daa8d20acb90d198789f77152021d8edc9cbbbe790cbcfeb50ecaf66f"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part014",
+      "bytes": 67108864,
+      "sha256": "ef6b83923d3ad978f795d620a54ee893fe113ed5bf593022062e3b5f2f9e13f7"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part015",
+      "bytes": 67108864,
+      "sha256": "2786ce0f9dbdb9183ea3408986080c46a4c2cd48b59a91ffd11eebf6cfac2cbc"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part016",
+      "bytes": 67108864,
+      "sha256": "71caf5544b6efb3e445eccc4fa8816b6afad5acc80bb3ccf6c717c2fb30a5745"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part017",
+      "bytes": 67108864,
+      "sha256": "3d5e416b8fa2ba3f15f9df97afacbf3754d1dd9e40cc96baf3e761c654c7a22d"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part018",
+      "bytes": 67108864,
+      "sha256": "2c7a4d86e353c6cc8695b8c59db6858bede130460af6bfb7cdb98b44490b49e6"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part019",
+      "bytes": 67108864,
+      "sha256": "946c9718be172927ab8f86ec6808d1fe8624ed305a727f573f875d5a3d3d08fc"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part020",
+      "bytes": 67108864,
+      "sha256": "eae8eeebe178a2b36691f4cb3eabf5b3a718d12f61fdcf307711c548b755e15d"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part021",
+      "bytes": 67108864,
+      "sha256": "5eb1d724ba531fc71dd7e0bd52fa8ab23c75e2882ccda07f2d4667a4163565c9"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part022",
+      "bytes": 67108864,
+      "sha256": "9711240c3224ce5544b3615a18e4d85b8da3d476add5a5ea956be8fc719f25a9"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part023",
+      "bytes": 67108864,
+      "sha256": "5d04fd68502db63bc2b6f7aad139da9fc9af28dd74ba47a8d3f71b4cb976b451"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part024",
+      "bytes": 67108864,
+      "sha256": "1e940b8362e75e7f12f478e259255ea664f1d11baaf9468f5c10a26eb120d232"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part025",
+      "bytes": 67108864,
+      "sha256": "d530f5f2954cb8bc043b691f25598034e8de7ff3a72a38e3cd45f02237080d3f"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part026",
+      "bytes": 67108864,
+      "sha256": "8a1e89c3ab20c1112e1f09307181f5c3734c0049634e6a923c76ec4c4f6a1a74"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part027",
+      "bytes": 67108864,
+      "sha256": "8d8a955cd3023287d7f38bd050b1b51caff8162902d796800e24d7eeb8b24dea"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part028",
+      "bytes": 67108864,
+      "sha256": "78e91ee9efcaa80bd292ccc2aa671e4b98d6863229be95e8159becc33951573c"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part029",
+      "bytes": 67108864,
+      "sha256": "d0b4fe22b6af29c1335adb10dbf89c97c21df23fd1d16ce246c927d8bb8376df"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part030",
+      "bytes": 67108864,
+      "sha256": "87b7014d2a71d9c8df1eed6ae11df14e5fa55db71e2ec8ec12d977e28a6e7715"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part031",
+      "bytes": 67108864,
+      "sha256": "15d8d9a96eff0829a58b860fe5d87221b929042b2920325c8f81102fa058a0aa"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part032",
+      "bytes": 67108864,
+      "sha256": "7854803b90b0f3e38faec216f276f8378f5517fe100bbf179d133d29e6b0433c"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part033",
+      "bytes": 67108864,
+      "sha256": "e3e46bdea81cd2d036cd10d8ff3d938142fc3c992ee400c0d232a6cf3b02a9e8"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part034",
+      "bytes": 67108864,
+      "sha256": "8c2421c37bdfee69ff773201548b010a20d7adbf18b340e79c58d166a4f85701"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part035",
+      "bytes": 67108864,
+      "sha256": "06228f0771d6f4b0fdce34969365bff3b3bf5803d96af7b289074dda483ead97"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part036",
+      "bytes": 67108864,
+      "sha256": "7bdbf5712b7bb7b4778c0ad1c17f2f11f525f6652518d92cf6b88a8f38d81887"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part037",
+      "bytes": 67108864,
+      "sha256": "e09c5320874cbc642a77616275427f315ce727729c43af89c42d65000e877d03"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part038",
+      "bytes": 67108864,
+      "sha256": "94d4986f3684bfe78f078a929275cc73a008d1b12889cd0b87c28bb35d31fa01"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part039",
+      "bytes": 67108864,
+      "sha256": "d6e9329ca1869ed5398866097d10f7d2e01af95d65d5e7a42d8a873f6671d948"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part040",
+      "bytes": 67108864,
+      "sha256": "1fcb53f16939e9aa56e21a60c290cef8bee33f7695b40e68c18ff662932d13ed"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part041",
+      "bytes": 67108864,
+      "sha256": "bc14965464d43e0bbd5e31e8e73786dad977ab758185609a46c7c18b586e5ed4"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part042",
+      "bytes": 67108864,
+      "sha256": "e0fe9a84e9e9b8ebb1d76ec8fe96d9ad43a4bbb565d1a7a5b0200e0f2fcf2727"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part043",
+      "bytes": 67108864,
+      "sha256": "4c142ce3fa5e01f43336b8827df97cc426a1cd62c1ccd9631a28232f9a7af39b"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part044",
+      "bytes": 67108864,
+      "sha256": "6ccf161bbd4e8cb14461f3fec08a81dabc2ec0957fd2942c56d64623a2acd4d4"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part045",
+      "bytes": 67108864,
+      "sha256": "b9f17f1e81b4730e8e08f191624a94c284f5f6bc43e4d1f44b40da6b7ec5ff6a"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part046",
+      "bytes": 67108864,
+      "sha256": "2d142fff0ce3570dd5417e50d2a9b36f653b4e37e08a05af0efe9c2173367b87"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part047",
+      "bytes": 67108864,
+      "sha256": "9e50803f89429e0a8d7dae80028befe3b7498884872e45eec1594bebea8d3fbd"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part048",
+      "bytes": 67108864,
+      "sha256": "3bc1489c451f08206c0334bd44132b96838918e21c24e140af556142a255e352"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part049",
+      "bytes": 67108864,
+      "sha256": "29752069b2ad4b46129337c41e9a26d5ccfe455cb85e76e762f6c40885762a1d"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part050",
+      "bytes": 67108864,
+      "sha256": "18cbd11fbfc38b736c759c5acbcb080369c0c6b20a245ac6bf0e5326d9b6503b"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part051",
+      "bytes": 67108864,
+      "sha256": "b48122290013436ee732dfdf27a26b9f84399f5a8cf4aac1ba194354ecce1d9c"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part052",
+      "bytes": 67108864,
+      "sha256": "c98ae99048d2ca7f7d351845c150cff959ed45ca14c552fa573f651af9103c5a"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part053",
+      "bytes": 67108864,
+      "sha256": "b6c44af7c5806ab255b8787497fc52f032610a2dca00ff16f87fd6be03b14f14"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part054",
+      "bytes": 67108864,
+      "sha256": "4e9bec6531e9f98c7359490c5de402cb5785d734d55a8a41380b1d9afea64b31"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part055",
+      "bytes": 67108864,
+      "sha256": "472a3bd2eaa183756e6d22fc7453356764f62b4bf90691687b3f4bdef1f0f89b"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part056",
+      "bytes": 67108864,
+      "sha256": "28d89eba6303879bb6ac18645a97919acf9e53e080f43c7e77ff2b856c874809"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part057",
+      "bytes": 67108864,
+      "sha256": "47d14c9864bf9cd2b3f048654e37453b148421d75319fec2057b649f803e1d92"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part058",
+      "bytes": 67108864,
+      "sha256": "4f59d025b82c3b35a0c8cd0987062a39184c6ef6715bd3ad979f142d494accad"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part059",
+      "bytes": 67108864,
+      "sha256": "652caa782c358ce12adc34bb6f0a314f1ce61a96ff21724e575959c8ddf34320"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part060",
+      "bytes": 67108864,
+      "sha256": "8832497d7d3bf6f25257fd5d1df78e675b56c15d7c77174c5b714e84be2bfc98"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part061",
+      "bytes": 67108864,
+      "sha256": "f99e6d5a94158b798b16df0b18c01d2d290cf6e5de666ea1fc9faf590900dd7a"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part062",
+      "bytes": 67108864,
+      "sha256": "e34ca3ad8f5bc1224ec77885ea57c417772024793b1a10b9ddb563e1decc7112"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part063",
+      "bytes": 67108864,
+      "sha256": "7160740549a55aa80d2519d0ecf3e8cd62b65bfd585528906b647993ccd38df8"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part064",
+      "bytes": 67108864,
+      "sha256": "929be6daae52c0fbd03e2e810a577c178bfc4b9e3168add9f3725a4f5f300458"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part065",
+      "bytes": 67108864,
+      "sha256": "66fffd94c82672c96b1f198546fc4141439ba3b046a4babb631a8bfde425d233"
+    },
+    {
+      "filename": "avalovia-old-cloud3-references.zip.part066",
+      "bytes": 29180916,
+      "sha256": "2b78ea58aaa69c42d4621e40fe987f4d362ccdadf9c4b30913c4094fffbe0bd9"
+    }
+  ]
+}
