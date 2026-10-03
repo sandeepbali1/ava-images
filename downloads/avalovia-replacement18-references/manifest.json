@@ -1,0 +1,513 @@
+[
+  {
+    "character_id": "ELV-000124",
+    "filename": "ELV-000124_ref.png",
+    "bytes": 1622916,
+    "sha256": "bc98e0f02136a68a2d008829c48393d49b65f1bf3c4d9464b0006f32c318bf81",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000199",
+    "filename": "ELV-000199_ref.png",
+    "bytes": 1607690,
+    "sha256": "20b97e7236c0bf51a9e76aef55728e1cc78fef226dbbea587a1b711284e5ffe7",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000383",
+    "filename": "ELV-000383_ref.png",
+    "bytes": 1385546,
+    "sha256": "16251508501a25b1eaaa94e965a1e35e054462172214c2e5a0a3aeaa21578d59",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000468",
+    "filename": "ELV-000468_ref.png",
+    "bytes": 1505068,
+    "sha256": "58fda6ee0199f7c7be7efe8e2b367d658da7ca9df1c826a39fff99c0f78dfd7a",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000497",
+    "filename": "ELV-000497_ref.png",
+    "bytes": 1665852,
+    "sha256": "0ff427eb89e0b4508405e17794711e2554e51013d48e5ee1f3ca51a85cd2d679",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000606",
+    "filename": "ELV-000606_ref.png",
+    "bytes": 1685270,
+    "sha256": "03aa65d278b878ef2705a2e446926d0ba088decf58456335bb3000b077cbad50",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000649",
+    "filename": "ELV-000649_ref.png",
+    "bytes": 1515194,
+    "sha256": "50b9fd282d664dc149c52e688db9b79b6a69a36919328405a14c9971a80b0f47",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000674",
+    "filename": "ELV-000674_ref.png",
+    "bytes": 1285503,
+    "sha256": "77f350fd88a3b6a5070954bef5b6403de0db130f3ae82195ed09e2a420450415",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000812",
+    "filename": "ELV-000812_ref.png",
+    "bytes": 1643079,
+    "sha256": "c1432c09829942053c62e11e3b543ce67342158e96aa04dc93958f72acff879f",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000878",
+    "filename": "ELV-000878_ref.png",
+    "bytes": 1549682,
+    "sha256": "4eccdf2302759b6f435fd6199e9eb8586dd20354fb576420330614bada39aa2a",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000910",
+    "filename": "ELV-000910_ref.png",
+    "bytes": 1362245,
+    "sha256": "5b65ac65959b16cb2af33e4af4b580143f3de2aae41549aa24fe27efb973af46",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-000992",
+    "filename": "ELV-000992_ref.png",
+    "bytes": 1336444,
+    "sha256": "9aa694ab0049ef213c06f847a6356d1a606fff1c3ac75635cd3c262c00bb2df8",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-001032",
+    "filename": "ELV-001032_ref.png",
+    "bytes": 1554301,
+    "sha256": "cd1c8f0c79509c43d218c5a6ffc7aa68b8b3bc1af530b201774b54f47b47aa89",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-001057",
+    "filename": "ELV-001057_ref.png",
+    "bytes": 1399662,
+    "sha256": "f6f2e795ea15875d54458d486c2022d03f464424cb1c8536822498ec2a573a26",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-001157",
+    "filename": "ELV-001157_ref.png",
+    "bytes": 1466299,
+    "sha256": "88f5816ef2d671529b922b7087911048b372d112717bdf0fa300fbf5af1597a1",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-001227",
+    "filename": "ELV-001227_ref.png",
+    "bytes": 1377019,
+    "sha256": "c144bc8ae556910b6aaff16dd1364450b96000cad1abd282ddd01a4af18a0e6b",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-001264",
+    "filename": "ELV-001264_ref.png",
+    "bytes": 1634583,
+    "sha256": "2151e9a2ea7f64828abeceb2596049a3410abcc6fd645c17d143844db7464c98",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-002595",
+    "filename": "ELV-002595_ref.png",
+    "bytes": 1491182,
+    "sha256": "c9a5dc730dcdcb35a69713146e19d31620a74c7720a2573d4c129894f530cb1f",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-002651",
+    "filename": "ELV-002651_ref.png",
+    "bytes": 1403502,
+    "sha256": "0ad225cdb30bb7f47d9d8b22d0dc49f61cfafa2b3c53423df49c13135c1e5005",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-002723",
+    "filename": "ELV-002723_ref.png",
+    "bytes": 1484225,
+    "sha256": "2d60246682d71cccdaeb8c1aa14e090428c2001f098fd61af2b73d1ffd056649",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-002791",
+    "filename": "ELV-002791_ref.png",
+    "bytes": 1293792,
+    "sha256": "5dfeae21c2eab63b6f556f35a449aa7eb39638ff98ef85f34495737f2ffcacd4",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-002864",
+    "filename": "ELV-002864_ref.png",
+    "bytes": 1548164,
+    "sha256": "86678282496c7729ed0bc57c50930ed44437c24aba867606d4bc3282b58f1ec8",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-002949",
+    "filename": "ELV-002949_ref.png",
+    "bytes": 1423599,
+    "sha256": "bf7fdb710f0bbd46dbb7c6faacb1bfde3c687de70398b236fb0fb0cfb7ac9dce",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-003025",
+    "filename": "ELV-003025_ref.png",
+    "bytes": 1632336,
+    "sha256": "1eb91270ac1204e2bd902119d48094cc057e84749306fc9ee80db1c4a129296c",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-003117",
+    "filename": "ELV-003117_ref.png",
+    "bytes": 1445247,
+    "sha256": "c5ea6f3b027d27c985bb20225764173bd5b4e415061d3e1147d917b898a3734e",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-003185",
+    "filename": "ELV-003185_ref.png",
+    "bytes": 1305822,
+    "sha256": "7934669a24a45d011a24e242c7b8f3a058437f532e221783d5e40a3055cbaf6b",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-003260",
+    "filename": "ELV-003260_ref.png",
+    "bytes": 1421541,
+    "sha256": "cd2ecffa954acf8981a1020e72f08acac3b3099beed47b8b7a600861083cb003",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-003325",
+    "filename": "ELV-003325_ref.png",
+    "bytes": 1541600,
+    "sha256": "07e54ed347b5eb69141395776bd913c5651400d688d1812cf71078fb73b4b142",
+    "archive": "avalovia-replacement18-references-part01-of03.zip"
+  },
+  {
+    "character_id": "ELV-003390",
+    "filename": "ELV-003390_ref.png",
+    "bytes": 1406241,
+    "sha256": "72fe2860800ea2b96430d643ac966d270c840073ab2e7897da443e427596efe2",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-003464",
+    "filename": "ELV-003464_ref.png",
+    "bytes": 1450409,
+    "sha256": "e6a5d71f9a8fd4b6f6f6db63feff35b9f8e83dece455d424d546cf55fbce83d9",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-003554",
+    "filename": "ELV-003554_ref.png",
+    "bytes": 1466647,
+    "sha256": "f0c132467e41b50806d13a18bfb79314fec35f2fb974f9388303ca11caa99761",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-003622",
+    "filename": "ELV-003622_ref.png",
+    "bytes": 1469159,
+    "sha256": "4eb1c9493d26474e048c5ba2002b65f49476e055ccaf29db811ab264b1b59d25",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010066",
+    "filename": "ELV-010066_ref.png",
+    "bytes": 1625222,
+    "sha256": "cf9694f304e1c09eeed33464250d9b3e0139c5f11b9c640f09b00304996d1a0e",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010194",
+    "filename": "ELV-010194_ref.png",
+    "bytes": 1319492,
+    "sha256": "badd40524d93f6ef1219567cb2a7aa67773b7ba81cd02d42f5bb1aa94f38b9d6",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010250",
+    "filename": "ELV-010250_ref.png",
+    "bytes": 1407446,
+    "sha256": "037486b17462754ad0e69f82ba5f27f7d78c4e9e44ff0c925c4c1cb10e88b344",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010312",
+    "filename": "ELV-010312_ref.png",
+    "bytes": 1447213,
+    "sha256": "b2f004d9786f552892652a15fabc6de91ba430e09c8c912c5ad52e7770b9f154",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010353",
+    "filename": "ELV-010353_ref.png",
+    "bytes": 1469909,
+    "sha256": "ec981d58a436fddc6e1ff3812e59d990496ed0c6d4158212bc329ed7b49260ef",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010423",
+    "filename": "ELV-010423_ref.png",
+    "bytes": 1356301,
+    "sha256": "af931fc1f9d679dc27c5fe239cb4463e7d47e9f3f9e2f1a3bbb3829588206f18",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010477",
+    "filename": "ELV-010477_ref.png",
+    "bytes": 1430865,
+    "sha256": "66698945deab45940aeec9df12242ccb6f14470b99705379b7356607edb60e5f",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010538",
+    "filename": "ELV-010538_ref.png",
+    "bytes": 1410612,
+    "sha256": "8412a546e469b87f1396d179585e6d61c4ec9f093eaf4e52219fd9de94615dae",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010586",
+    "filename": "ELV-010586_ref.png",
+    "bytes": 1333127,
+    "sha256": "374c51ec7a4b445bdd00db8bd2469040f82f6a402811aec299f15d870fff7928",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010636",
+    "filename": "ELV-010636_ref.png",
+    "bytes": 1388947,
+    "sha256": "3f07326b2f9f59d9c351368f648ea9e2d590109c829f1086170e1117c52eb68b",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010690",
+    "filename": "ELV-010690_ref.png",
+    "bytes": 1672140,
+    "sha256": "212a98590d8fe8c37e3eccf3fac63e7a7540531b52a3171a3424e4435e5f0d73",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010745",
+    "filename": "ELV-010745_ref.png",
+    "bytes": 1417520,
+    "sha256": "ec93fcbcc217f41cc42d2210ef6bd46cfc73a0f7e91a05256f0c180fd3af656c",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010790",
+    "filename": "ELV-010790_ref.png",
+    "bytes": 1488551,
+    "sha256": "838ae868a51ed7076aba963785c159818ed7ad801262b9f2abf99a2a7927ba38",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010841",
+    "filename": "ELV-010841_ref.png",
+    "bytes": 1256571,
+    "sha256": "7e84b76720c25f6246f96b38228e9df84fdb300a0dc2638823b6992c7c3452a6",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010892",
+    "filename": "ELV-010892_ref.png",
+    "bytes": 1411750,
+    "sha256": "22fec11493db6717dd21beb26bfcb365bacdd3f7eaab6d4219cf279435b398a7",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-010949",
+    "filename": "ELV-010949_ref.png",
+    "bytes": 1374089,
+    "sha256": "6983c8722007455eb038b67806aca063dc76f2e92390811ce9c2d1a2ffe3e068",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-011006",
+    "filename": "ELV-011006_ref.png",
+    "bytes": 1361626,
+    "sha256": "d7097e598c79a89f29d129a11d761f81626025d7c286f33e21bd066869b32b1d",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-011063",
+    "filename": "ELV-011063_ref.png",
+    "bytes": 1693762,
+    "sha256": "a5eb3119203fbebd73f1d6545b8d70773c9bf71c0b2d3d8c282ea19fd2edba3d",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-011114",
+    "filename": "ELV-011114_ref.png",
+    "bytes": 1675800,
+    "sha256": "3a37c780ae38fd309ae7eb4ceeeaad48ac577447567664b8946da5964adac897",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-011158",
+    "filename": "ELV-011158_ref.png",
+    "bytes": 1505843,
+    "sha256": "0f51cf109b467db3f63e4328447b08ad125c5286b59e2fff9d111248cc77163b",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-011195",
+    "filename": "ELV-011195_ref.png",
+    "bytes": 1338780,
+    "sha256": "6d333e2759389c28aaec13d5fe1b02771d543437c8bf685c0f366839b7640fb9",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-011256",
+    "filename": "ELV-011256_ref.png",
+    "bytes": 1565955,
+    "sha256": "bae7cf485bc16037ac0883831e34e9a7098dc641f0a21c22d2d2331c019c46d9",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-015030",
+    "filename": "ELV-015030_ref.png",
+    "bytes": 1556776,
+    "sha256": "52f0adf1ea3aa393eaf6d38c303280d5920c12f02e7deb974dcdbdc8a6ba94ca",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-015063",
+    "filename": "ELV-015063_ref.png",
+    "bytes": 1421018,
+    "sha256": "327d1c2908738af084199d7392e6ff340a55ed3ab7b34bb5c6cf481b52717d34",
+    "archive": "avalovia-replacement18-references-part02-of03.zip"
+  },
+  {
+    "character_id": "ELV-015099",
+    "filename": "ELV-015099_ref.png",
+    "bytes": 1261617,
+    "sha256": "f05daf8aa57b9a9294de20d0065919edae35896ca99402b21908ff7661361ca5",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-015137",
+    "filename": "ELV-015137_ref.png",
+    "bytes": 1557794,
+    "sha256": "e90ed57c69618c5b808c182f6e88e1a5177edbf25469936c0dd369c54db2c839",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-015180",
+    "filename": "ELV-015180_ref.png",
+    "bytes": 1507408,
+    "sha256": "a6dcb5d59a56fca0134b3c2e2ed9ae5ac3ebfa544bc3d787afbe44c4dff67fee",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-015216",
+    "filename": "ELV-015216_ref.png",
+    "bytes": 1364797,
+    "sha256": "6e0880cec2ba53023c000e574d2097d5885b3b5f14051698a535dda9b5c10a43",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-016978",
+    "filename": "ELV-016978_ref.png",
+    "bytes": 1408731,
+    "sha256": "26f9624b1a904a5bc4c72745c9b0a6fdcc9422f29111f3fae6f26ad038bd66d8",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-017017",
+    "filename": "ELV-017017_ref.png",
+    "bytes": 1377301,
+    "sha256": "79949439a74c96f80f8c07485ace8f1ae06795d93dcae0fd7cf16e34a2f16d13",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-017051",
+    "filename": "ELV-017051_ref.png",
+    "bytes": 1563517,
+    "sha256": "45f352ad83cf61c893eb34202528cbe68848080c421874c3f13f674ed012624d",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-017092",
+    "filename": "ELV-017092_ref.png",
+    "bytes": 1514979,
+    "sha256": "fdbde6b1ef397b88c4406d4b15484922ce1d7d0d68009f8c3bd33c23cc57125f",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-017126",
+    "filename": "ELV-017126_ref.png",
+    "bytes": 1569180,
+    "sha256": "6a83d67a14518d6cc5643be1ea80a03abb3fabcb26b8dcff3a2dd46ee50ae121",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-017165",
+    "filename": "ELV-017165_ref.png",
+    "bytes": 1554695,
+    "sha256": "91a0dfb720d01b7450224607d2be038a72371e456ea86a8754a3b8aa21a1fbe3",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-017207",
+    "filename": "ELV-017207_ref.png",
+    "bytes": 1501652,
+    "sha256": "105858a82d89a6e67ff8df2539bc41b547f81b0fcbc99e8644e1ec5874c0cef2",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-019012",
+    "filename": "ELV-019012_ref.png",
+    "bytes": 1509379,
+    "sha256": "45c7d0c9271abf774fd28f1b2e1c0a4b74dc621771464f9c51d7582d5e104f04",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-019087",
+    "filename": "ELV-019087_ref.png",
+    "bytes": 1463447,
+    "sha256": "42fa0ee9e088afb4d0f38989faa2b343f1cb32948ec2b98e02d76be1bae0e812",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-019140",
+    "filename": "ELV-019140_ref.png",
+    "bytes": 1785465,
+    "sha256": "a0e599e2d1953a49cc01779c9c97a8fb9c6c08ca27ec0b55ad8e97326296662e",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-019196",
+    "filename": "ELV-019196_ref.png",
+    "bytes": 1445422,
+    "sha256": "35525d989c35a1daeaf0d7040c1c4588c12ae745f2379b74b8dc7c0d7eb3c94d",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-019230",
+    "filename": "ELV-019230_ref.png",
+    "bytes": 1394879,
+    "sha256": "854ccfab737081a81b31d373ade210c2899ca3b2b3fc6ed466cf7605ac7265f5",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  },
+  {
+    "character_id": "ELV-019271",
+    "filename": "ELV-019271_ref.png",
+    "bytes": 1431399,
+    "sha256": "8e56dc6f08161cc42d655952fb530f32523b6c848423e06964b1fb78c4eec9fc",
+    "archive": "avalovia-replacement18-references-part03-of03.zip"
+  }
+]
