@@ -1,0 +1,33 @@
+{
+  "source": "replacement12",
+  "reference_count": 51,
+  "source_bytes": 74958874,
+  "archives": [
+    {
+      "filename": "avalovia-replacement12-references-part01.zip",
+      "bytes": 40856167,
+      "sha256": "6d311b17ac2ea904077898d7016f66ab9ac3e006e3f2a89ac435cce262e01f06",
+      "reference_count": 28,
+      "parts": [
+        {
+          "filename": "avalovia-replacement12-references-part01.zip.part001",
+          "bytes": 40856167,
+          "sha256": "6d311b17ac2ea904077898d7016f66ab9ac3e006e3f2a89ac435cce262e01f06"
+        }
+      ]
+    },
+    {
+      "filename": "avalovia-replacement12-references-part02.zip",
+      "bytes": 34113875,
+      "sha256": "833c7b95fadd1a8314b3ab91cc1827f35f11d92b275a51f9994b2d95e1735df4",
+      "reference_count": 23,
+      "parts": [
+        {
+          "filename": "avalovia-replacement12-references-part02.zip.part001",
+          "bytes": 34113875,
+          "sha256": "833c7b95fadd1a8314b3ab91cc1827f35f11d92b275a51f9994b2d95e1735df4"
+        }
+      ]
+    }
+  ]
+}

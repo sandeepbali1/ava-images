@@ -1,0 +1,308 @@
+[
+  {
+    "character_id": "ELV-002578",
+    "filename": "ELV-002578_ref.png",
+    "bytes": 1528742,
+    "sha256": "63f1a44d31fe56103beb6fb4bf4aaa3d9f75c9bc969611433dc84f838fc7e778"
+  },
+  {
+    "character_id": "ELV-002625",
+    "filename": "ELV-002625_ref.png",
+    "bytes": 1367425,
+    "sha256": "ab16e44370eea70fd0b4cc5fabd04d23bd8867e2ced09e59bf156b10e14d640e"
+  },
+  {
+    "character_id": "ELV-002698",
+    "filename": "ELV-002698_ref.png",
+    "bytes": 1541868,
+    "sha256": "e31ef2eec41c903081ee40f33b8d26850645c8c9595994d51c6076f934029e00"
+  },
+  {
+    "character_id": "ELV-002769",
+    "filename": "ELV-002769_ref.png",
+    "bytes": 1486457,
+    "sha256": "2f41ea7dad9b64b6a177fae15a5816028214160ff5ecffeaa5214d71ee1f26d3"
+  },
+  {
+    "character_id": "ELV-002842",
+    "filename": "ELV-002842_ref.png",
+    "bytes": 1550490,
+    "sha256": "6210a3b10a5ccdde019131c13f3470d3ba43e596c94bdaf1fe619116c663d964"
+  },
+  {
+    "character_id": "ELV-002912",
+    "filename": "ELV-002912_ref.png",
+    "bytes": 1428490,
+    "sha256": "df26ad207d04e4c9a4c1b901d55bd8f36acc3d46e51feffd5ee08d5dfcd31493"
+  },
+  {
+    "character_id": "ELV-002995",
+    "filename": "ELV-002995_ref.png",
+    "bytes": 1476662,
+    "sha256": "139313d89c80d6fefc49d0a75bc646104f6657f505e7d9bd85f125e6cff556e6"
+  },
+  {
+    "character_id": "ELV-003087",
+    "filename": "ELV-003087_ref.png",
+    "bytes": 1415027,
+    "sha256": "04c30a54ee90a667aa5fa6e9d66b51322a6d71d2491bb02bfe79b6abe041dc2a"
+  },
+  {
+    "character_id": "ELV-003156",
+    "filename": "ELV-003156_ref.png",
+    "bytes": 1453188,
+    "sha256": "8e818a4a49908acc9348df0c225a35b2afd836f5718788ff664a57f334d90064"
+  },
+  {
+    "character_id": "ELV-003234",
+    "filename": "ELV-003234_ref.png",
+    "bytes": 1518832,
+    "sha256": "14d401d5257129d22f79d1e7dbee70c1d778b8edbe4ece85f7cbf95697a3968b"
+  },
+  {
+    "character_id": "ELV-003313",
+    "filename": "ELV-003313_ref.png",
+    "bytes": 1493308,
+    "sha256": "57b2db007fa37665fff18be610b7a4ef581fe0c56c986788f235412a9dd9ddbe"
+  },
+  {
+    "character_id": "ELV-003366",
+    "filename": "ELV-003366_ref.png",
+    "bytes": 1373240,
+    "sha256": "cb6d1eefa41cc914c4299dc63450bdccfcf9eedff7b19d0be7c78117fca4f49b"
+  },
+  {
+    "character_id": "ELV-003431",
+    "filename": "ELV-003431_ref.png",
+    "bytes": 1534543,
+    "sha256": "b1acd335a5a14565ffedb5d3c2cec80a657bea982c7f2ca4da6461dfaa564dca"
+  },
+  {
+    "character_id": "ELV-003534",
+    "filename": "ELV-003534_ref.png",
+    "bytes": 1612583,
+    "sha256": "0a9231d0a0e00d646d397d22233c29f2f90fe6c2fc8d7cf45c831e7465d8f1e5"
+  },
+  {
+    "character_id": "ELV-003598",
+    "filename": "ELV-003598_ref.png",
+    "bytes": 1312228,
+    "sha256": "58660e5603e85c7d8d3645393969e0b20139f78407210af141dbed27918330ce"
+  },
+  {
+    "character_id": "ELV-003688",
+    "filename": "ELV-003688_ref.png",
+    "bytes": 1441193,
+    "sha256": "776ccb62b0c7a058728bb866c60f1d23416963b3a1d8295244bae3798206a5f1"
+  },
+  {
+    "character_id": "ELV-010179",
+    "filename": "ELV-010179_ref.png",
+    "bytes": 1466236,
+    "sha256": "8e851cf49b5d11aa3b9841d56119e2ceb201ae9f383efb9bbef70c52def12377"
+  },
+  {
+    "character_id": "ELV-010234",
+    "filename": "ELV-010234_ref.png",
+    "bytes": 1336595,
+    "sha256": "08516b80d662fd62eb2d4361283582716423f56dc5e45bd26604686ff0330ac8"
+  },
+  {
+    "character_id": "ELV-010294",
+    "filename": "ELV-010294_ref.png",
+    "bytes": 1317207,
+    "sha256": "72640a309758ff388aa4bc3a5fc5ea3f10fadc6bb2267a85a430edb8c72deee9"
+  },
+  {
+    "character_id": "ELV-010340",
+    "filename": "ELV-010340_ref.png",
+    "bytes": 1445551,
+    "sha256": "60e62629b13d68bc471f6059ccad5926098b6daa4716f6bc7ca13da0e2e13540"
+  },
+  {
+    "character_id": "ELV-010407",
+    "filename": "ELV-010407_ref.png",
+    "bytes": 1477888,
+    "sha256": "71b19f16aa6a371425441335701fb577ddc87266439f44bf8b78c697e4cc194c"
+  },
+  {
+    "character_id": "ELV-010459",
+    "filename": "ELV-010459_ref.png",
+    "bytes": 1458110,
+    "sha256": "62e07f0e4108f80c81533b43dcb7df44369b532a9b6f52d02825f6e964f109b0"
+  },
+  {
+    "character_id": "ELV-010515",
+    "filename": "ELV-010515_ref.png",
+    "bytes": 1733673,
+    "sha256": "71c2f923aa6452dd69f42a0850ee42b70cd23b8ac6099af8b7686618b203aaea"
+  },
+  {
+    "character_id": "ELV-010570",
+    "filename": "ELV-010570_ref.png",
+    "bytes": 1376571,
+    "sha256": "eda0a4a8731f3272a61cbb46513302b74e535e29965d1b006307fb296e0fb7cc"
+  },
+  {
+    "character_id": "ELV-010622",
+    "filename": "ELV-010622_ref.png",
+    "bytes": 1480817,
+    "sha256": "cbd66558e4da5486850c7145f35dc5b535b6933e683da51e66c69c8f8f1f9022"
+  },
+  {
+    "character_id": "ELV-010678",
+    "filename": "ELV-010678_ref.png",
+    "bytes": 1489993,
+    "sha256": "e70532c2fa7108cea24414268e1f3a0ec328c34c0bb37b7bbfa3cca5ba90d5dd"
+  },
+  {
+    "character_id": "ELV-010732",
+    "filename": "ELV-010732_ref.png",
+    "bytes": 1415825,
+    "sha256": "fe56477fd7cfaef86f5fb98f6c92795ebbf473b37cdea36966f7dcbf05ff888b"
+  },
+  {
+    "character_id": "ELV-010777",
+    "filename": "ELV-010777_ref.png",
+    "bytes": 1317306,
+    "sha256": "940720cd019bb1b5df83c01f8f94a36846935dd058ce3c8da0e78af3d2662a42"
+  },
+  {
+    "character_id": "ELV-010829",
+    "filename": "ELV-010829_ref.png",
+    "bytes": 1396163,
+    "sha256": "55bb06f39bfdee8bcfc29c9c4b349e5aa8f55a562472f05cdd9ec7678bc754f4"
+  },
+  {
+    "character_id": "ELV-010882",
+    "filename": "ELV-010882_ref.png",
+    "bytes": 1585376,
+    "sha256": "2e46fb589ecff7aca7da0131855637750f5962fea0a264c9698b0a55322126e3"
+  },
+  {
+    "character_id": "ELV-010936",
+    "filename": "ELV-010936_ref.png",
+    "bytes": 1291345,
+    "sha256": "0156df46913160cbd2717cd853221a1f81863fee4a3418613addb5681c268b8b"
+  },
+  {
+    "character_id": "ELV-010991",
+    "filename": "ELV-010991_ref.png",
+    "bytes": 1583368,
+    "sha256": "b40eebdecd3c5bcc79eaa3ea1e601048aea3e7a0c7a4ecacc90c3e2563bbe149"
+  },
+  {
+    "character_id": "ELV-011050",
+    "filename": "ELV-011050_ref.png",
+    "bytes": 1374101,
+    "sha256": "8d271b282fbdfc93b68b637a1e087d37e479262c877d8997775b38d70a84f61d"
+  },
+  {
+    "character_id": "ELV-011100",
+    "filename": "ELV-011100_ref.png",
+    "bytes": 1419780,
+    "sha256": "69ee06e5a692df2589b0fcb477050ded8fad92a24d61da6b32b007ad40af80ff"
+  },
+  {
+    "character_id": "ELV-011144",
+    "filename": "ELV-011144_ref.png",
+    "bytes": 1493864,
+    "sha256": "c543531e1b137f83454a1d0bd71e0cdc6b5108172e3e376fb496476343c6e8f3"
+  },
+  {
+    "character_id": "ELV-011186",
+    "filename": "ELV-011186_ref.png",
+    "bytes": 1491389,
+    "sha256": "5e617e72f1b24e7f1eb4f09d4f394dca1f75509b2ed166465c8b2c327c0eaa8b"
+  },
+  {
+    "character_id": "ELV-011239",
+    "filename": "ELV-011239_ref.png",
+    "bytes": 1496287,
+    "sha256": "21ee93fe03e4e539bd3f48722e46ca6560633a57b14d01fd69a162f9a31bf15a"
+  },
+  {
+    "character_id": "ELV-015024",
+    "filename": "ELV-015024_ref.png",
+    "bytes": 1382871,
+    "sha256": "9b0d74987815ffb0c95ea14c0fa690505386ca534c27533e7e77701d53be7f48"
+  },
+  {
+    "character_id": "ELV-015053",
+    "filename": "ELV-015053_ref.png",
+    "bytes": 1450531,
+    "sha256": "e5183ad87961e31a2f959a3fc6257b08883274189c42e6a99e3bb30d9a6c1b1a"
+  },
+  {
+    "character_id": "ELV-015090",
+    "filename": "ELV-015090_ref.png",
+    "bytes": 1507579,
+    "sha256": "f153283af815a187a7aa5fd543e9d57d2939bf8cc6271358c31128e5750377e1"
+  },
+  {
+    "character_id": "ELV-015125",
+    "filename": "ELV-015125_ref.png",
+    "bytes": 1771998,
+    "sha256": "6e347de29b62748a458402a69e8bc71c5c7953e344da60e4ddb495a45c2312d9"
+  },
+  {
+    "character_id": "ELV-015167",
+    "filename": "ELV-015167_ref.png",
+    "bytes": 1470402,
+    "sha256": "220b29339242eb7c9861c78241b5a99d3e1e19058e8f9391f1d9531859982ad0"
+  },
+  {
+    "character_id": "ELV-015206",
+    "filename": "ELV-015206_ref.png",
+    "bytes": 1457208,
+    "sha256": "4ebb5e60f78c8993597a59822d27f807c7b0a8920954af891d973f7c7562b5dd"
+  },
+  {
+    "character_id": "ELV-015239",
+    "filename": "ELV-015239_ref.png",
+    "bytes": 1629760,
+    "sha256": "aadd8d8d97356d9dc17dc68372ddcdecc6630d857838a14dfe9a61f131aa959b"
+  },
+  {
+    "character_id": "ELV-016965",
+    "filename": "ELV-016965_ref.png",
+    "bytes": 1481065,
+    "sha256": "260a09f2b51961626c19a26cf25411791c9c02ab206b3954bec04b2dfe8a19c2"
+  },
+  {
+    "character_id": "ELV-017005",
+    "filename": "ELV-017005_ref.png",
+    "bytes": 1390109,
+    "sha256": "61538ee1b797cd66e2d2e2fff583b95d9433900b77d4a1f5e91b7848f908ac55"
+  },
+  {
+    "character_id": "ELV-017042",
+    "filename": "ELV-017042_ref.png",
+    "bytes": 1377790,
+    "sha256": "bde863c03857e96ea1369245b5c4752c54022b55d724132a452d76b23586cd8e"
+  },
+  {
+    "character_id": "ELV-017080",
+    "filename": "ELV-017080_ref.png",
+    "bytes": 1495773,
+    "sha256": "1cd2832d804d2f13f28eb60f6b2c2a7708aaa73739c54171383379f78759cc13"
+  },
+  {
+    "character_id": "ELV-017112",
+    "filename": "ELV-017112_ref.png",
+    "bytes": 1548978,
+    "sha256": "8ee12efc7151ff2d5e5ad5927fb3ad8fdd051921eb302eaa3922b59ac7e0e787"
+  },
+  {
+    "character_id": "ELV-017152",
+    "filename": "ELV-017152_ref.png",
+    "bytes": 1573473,
+    "sha256": "76070b4cfa8a2cbf86266e408a089376d0c49a1da86333c830788ba0aaf7f9e2"
+  },
+  {
+    "character_id": "ELV-017196",
+    "filename": "ELV-017196_ref.png",
+    "bytes": 1439616,
+    "sha256": "5f5a661e40dd2d1d126c8202680014adbf6c772b03116da0eb6bdb7ff1a7531d"
+  }
+]
