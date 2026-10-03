@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ELV-000568",
+    "filename": "ELV-000568_ref.png",
+    "bytes": 1289323,
+    "sha256": "afbdd2961cd7e42d8dabf17ac949f8723095edaa59ad767ff3ea7d4be85e1b33"
+  },
+  {
+    "id": "ELV-000956",
+    "filename": "ELV-000956_ref.png",
+    "bytes": 1400435,
+    "sha256": "913695a7782c8287af8724f7e33eae7d02e8d65793d4537676486d602986f3ac"
+  },
+  {
+    "id": "ELV-019930",
+    "filename": "ELV-019930_ref.png",
+    "bytes": 1616360,
+    "sha256": "8fde2d69ab7c784ac2ba29679f971f384c2d8f3d7587e254185584bf0e6ed129"
+  }
+]

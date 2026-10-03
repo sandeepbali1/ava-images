@@ -1,0 +1,15 @@
+{
+  "archive": {
+    "filename": "avalovia-fresh-cloud4-references.zip",
+    "bytes": 4306857,
+    "sha256": "a999577cbed001bbf6d40a43c23384d7f3784d2ea58edd4608321c9a342e310c"
+  },
+  "part_size_bytes": 67108864,
+  "parts": [
+    {
+      "filename": "avalovia-fresh-cloud4-references.zip.part001",
+      "bytes": 4306857,
+      "sha256": "a999577cbed001bbf6d40a43c23384d7f3784d2ea58edd4608321c9a342e310c"
+    }
+  ]
+}
