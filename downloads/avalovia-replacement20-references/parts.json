@@ -1,0 +1,46 @@
+{
+  "source": "replacement20",
+  "reference_count": 73,
+  "reference_bytes": 105559647,
+  "archives": [
+    {
+      "filename": "avalovia-replacement20-references-part01-of03.zip",
+      "bytes": 40462616,
+      "sha256": "171d9ff861fc84df4117debf0ac505eca823be8d18dd3cec67db2f896d4da221",
+      "reference_count": 28,
+      "parts": [
+        {
+          "filename": "avalovia-replacement20-references-part01-of03.zip.part001",
+          "bytes": 40462616,
+          "sha256": "171d9ff861fc84df4117debf0ac505eca823be8d18dd3cec67db2f896d4da221"
+        }
+      ]
+    },
+    {
+      "filename": "avalovia-replacement20-references-part02-of03.zip",
+      "bytes": 41625051,
+      "sha256": "c8ce7050eabde6125019e4bd1837368a3c332d57e25934e7ef0e60b912c4c14d",
+      "reference_count": 29,
+      "parts": [
+        {
+          "filename": "avalovia-replacement20-references-part02-of03.zip.part001",
+          "bytes": 41625051,
+          "sha256": "c8ce7050eabde6125019e4bd1837368a3c332d57e25934e7ef0e60b912c4c14d"
+        }
+      ]
+    },
+    {
+      "filename": "avalovia-replacement20-references-part03-of03.zip",
+      "bytes": 23483456,
+      "sha256": "aa3c1d51af03fa2814f2d53cd771f0ecb100f6e3c218b4ff75c976ddc040c516",
+      "reference_count": 16,
+      "parts": [
+        {
+          "filename": "avalovia-replacement20-references-part03-of03.zip.part001",
+          "bytes": 23483456,
+          "sha256": "aa3c1d51af03fa2814f2d53cd771f0ecb100f6e3c218b4ff75c976ddc040c516"
+        }
+      ]
+    }
+  ]
+}
