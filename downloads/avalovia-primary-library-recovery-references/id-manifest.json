@@ -1,0 +1,3029 @@
+{
+  "reference_count": 336,
+  "images": [
+    {
+      "character_id": "ELV-000101",
+      "filename": "ELV-000101_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000101/ELV-000101_ref.png",
+      "bytes": 1377052,
+      "sha256": "1fba197cacf759b765b45dc74304411277a541e23cc92634c299ad6dd5d834ad",
+      "source_archive": "avalovia-cloud-first-six-20261002.zip",
+      "source_file_id": "file_000000007e90822f9bc0c0a677d44154"
+    },
+    {
+      "character_id": "ELV-000105",
+      "filename": "ELV-000105_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000105/ELV-000105_ref.png",
+      "bytes": 1451862,
+      "sha256": "5483f05519460abee922514b37d55e0f7e977d8dbdf2e391e6e0f3b30626cdbb",
+      "source_archive": "avalovia-cloud-first-six-20261002.zip",
+      "source_file_id": "file_000000007e90822f9bc0c0a677d44154"
+    },
+    {
+      "character_id": "ELV-000107",
+      "filename": "ELV-000107_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000107/ELV-000107_ref.png",
+      "bytes": 1376446,
+      "sha256": "6d753785a3db778ed3158fe4916efc7a0de30b2d136d478a9e1059c8277ab97b",
+      "source_archive": "avalovia-cloud-first-six-20261002.zip",
+      "source_file_id": "file_000000007e90822f9bc0c0a677d44154"
+    },
+    {
+      "character_id": "ELV-000108",
+      "filename": "ELV-000108_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000108/ELV-000108_ref.png",
+      "bytes": 1580423,
+      "sha256": "678281a34865b504286ce9e88558b4f50616e2b7a7604591c15244972248c604",
+      "source_archive": "avalovia-cloud-first-six-20261002.zip",
+      "source_file_id": "file_000000007e90822f9bc0c0a677d44154"
+    },
+    {
+      "character_id": "ELV-000111",
+      "filename": "ELV-000111_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000111/ELV-000111_ref.png",
+      "bytes": 1430119,
+      "sha256": "d5a60c2abab7fb30ccbba6e2180c9116ad3e3d0d0a0601b97318b7ce96c12e22",
+      "source_archive": "avalovia-cloud-first-six-20261002.zip",
+      "source_file_id": "file_000000007e90822f9bc0c0a677d44154"
+    },
+    {
+      "character_id": "ELV-000114",
+      "filename": "ELV-000114_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000114/ELV-000114_ref.png",
+      "bytes": 1368064,
+      "sha256": "43522abde7975546f4da8d322af84a297a97f7ce67c1bf59ab5dd92ee8ca13c4",
+      "source_archive": "avalovia-cloud-first-six-20261002.zip",
+      "source_file_id": "file_000000007e90822f9bc0c0a677d44154"
+    },
+    {
+      "character_id": "ELV-000118",
+      "filename": "ELV-000118_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000118/ELV-000118_ref.png",
+      "bytes": 1363236,
+      "sha256": "4f174bcb09bac5595d8da6069726c30863505f305c153ae9563c694410d40a34",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000121",
+      "filename": "ELV-000121_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000121/ELV-000121_ref.png",
+      "bytes": 1432133,
+      "sha256": "b892d7d753c9edac8e09f1db85c676c2f38980e45672cc272118e87574132574",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000127",
+      "filename": "ELV-000127_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000127/ELV-000127_ref.png",
+      "bytes": 1381389,
+      "sha256": "f2ade8b118927b11a47648c7cf8f9c6d8b99097d09550d05c36bbe8d64a05ae0",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000129",
+      "filename": "ELV-000129_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000129/ELV-000129_ref.png",
+      "bytes": 1440896,
+      "sha256": "bfac53b6d1af4940232d281f0e89ba439b9f352d558527eefcc8d649f2ea2353",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000133",
+      "filename": "ELV-000133_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000133/ELV-000133_ref.png",
+      "bytes": 1452500,
+      "sha256": "b4ff90cccdf70d61df12d393766684b3f27a2bc91a01f4304c6f9dfabdc2a087",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000135",
+      "filename": "ELV-000135_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000135/ELV-000135_ref.png",
+      "bytes": 1321242,
+      "sha256": "0633cbfde1c0ccd5c545ca070d176f317ce051db2a214804a4ddd5f67f3ed568",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000138",
+      "filename": "ELV-000138_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000138/ELV-000138_ref.png",
+      "bytes": 1469749,
+      "sha256": "36af526acf3971d3104ac19654df2b69f87ab69399ba9bc34a5c3694c7b1afbe",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000139",
+      "filename": "ELV-000139_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000139/ELV-000139_ref.png",
+      "bytes": 1406155,
+      "sha256": "2edcf390533f1cc2ba41af21f7d568f1c6deee3efe05712a67a883b35757555d",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000140",
+      "filename": "ELV-000140_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000140/ELV-000140_ref.png",
+      "bytes": 1533979,
+      "sha256": "2c46a03590652c28981ededfcc5651bf002f09d8177c8971f29581bab665c392",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000141",
+      "filename": "ELV-000141_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000141/ELV-000141_ref.png",
+      "bytes": 1429401,
+      "sha256": "cd261ed345efe525c1c10dd835e70e02d63e8b596e626795f82f9e7f2c335b67",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000142",
+      "filename": "ELV-000142_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000142/ELV-000142_ref.png",
+      "bytes": 1520929,
+      "sha256": "406167d2a4d19a1c6a7c705d61cb388639595df972efd602bb427b2c825f55fc",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000148",
+      "filename": "ELV-000148_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000148/ELV-000148_ref.png",
+      "bytes": 1358444,
+      "sha256": "1ef599a0da74958df79d5bff0ca2ce237e9c278784d89b857b47c6e783a772c6",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000150",
+      "filename": "ELV-000150_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000150/ELV-000150_ref.png",
+      "bytes": 1499547,
+      "sha256": "e5506256a727301eb11c4093f389f01e7ce9805a020dfd59642b9e3a456126c7",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000153",
+      "filename": "ELV-000153_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000153/ELV-000153_ref.png",
+      "bytes": 1513626,
+      "sha256": "e0d175e01697db06dc03f8e34727c3d01b81079376b7f9d9753b440736325c45",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000154",
+      "filename": "ELV-000154_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000154/ELV-000154_ref.png",
+      "bytes": 1717984,
+      "sha256": "5bcdce0c1783a32e6cecaf14fc2c71ec80bdbe0ba099f5c657513338419263cd",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000156",
+      "filename": "ELV-000156_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000156/ELV-000156_ref.png",
+      "bytes": 1486637,
+      "sha256": "1f39b90061587e60e082235f8b280980ef871327a282272414068d3169c4a656",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000158",
+      "filename": "ELV-000158_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000158/ELV-000158_ref.png",
+      "bytes": 1527897,
+      "sha256": "07152381b4d3abf9eccec216f31af671df5798b32d9913a711b6808b408d7c26",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000159",
+      "filename": "ELV-000159_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000159/ELV-000159_ref.png",
+      "bytes": 1741382,
+      "sha256": "90b9e3baa5ff95b54def1a43d60c6e20d97d15361b973a43f1d1f156280b80a2",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000160",
+      "filename": "ELV-000160_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000160/ELV-000160_ref.png",
+      "bytes": 1358357,
+      "sha256": "c09086bc6ed4be6b4bcfc4007606497285990ed350c2f2b389aa013cc70e4250",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000162",
+      "filename": "ELV-000162_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000162/ELV-000162_ref.png",
+      "bytes": 1439588,
+      "sha256": "7c7c9e8c62cec548b3345230427308298fd38221ec9638b9011094ac4a9c2254",
+      "source_archive": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9"
+    },
+    {
+      "character_id": "ELV-000163",
+      "filename": "ELV-000163_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000163/ELV-000163_ref.png",
+      "bytes": 1397300,
+      "sha256": "ce0e6a7a10d8d9dcb601d791d3bd0a421194663bb40a9ec0745f302157615517",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000165",
+      "filename": "ELV-000165_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000165/ELV-000165_ref.png",
+      "bytes": 1479013,
+      "sha256": "d2b920ef7eca02d48cffae32574e11a1107a0f9e4b99cfc7c73d7fe554765db7",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000168",
+      "filename": "ELV-000168_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000168/ELV-000168_ref.png",
+      "bytes": 1552705,
+      "sha256": "fa984b85960fc86c0fda8f936facfac295d68157df264b0c6a570177f3ad427e",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000171",
+      "filename": "ELV-000171_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000171/ELV-000171_ref.png",
+      "bytes": 1628299,
+      "sha256": "809db6e742604930bffb5530454520a672084eaa55b09393d7808bd421bf9cb1",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000172",
+      "filename": "ELV-000172_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000172/ELV-000172_ref.png",
+      "bytes": 1711211,
+      "sha256": "fea40266302b31d8a3c3cc7e0664b59b9d1db1bef653b257b4cdf6fa6bd88957",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000173",
+      "filename": "ELV-000173_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000173/ELV-000173_ref.png",
+      "bytes": 1427222,
+      "sha256": "6de24a4081a251343e668f8757c92c1038e6f8b32c14775404ac468f96374132",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000174",
+      "filename": "ELV-000174_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000174/ELV-000174_ref.png",
+      "bytes": 1349694,
+      "sha256": "4cdc18a02b597aebf60341ee959e3e6ee88ed7a88fbcd182a280995aa51f92ed",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000175",
+      "filename": "ELV-000175_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000175/ELV-000175_ref.png",
+      "bytes": 1573123,
+      "sha256": "55afe6d75544f549fb64dff4613f2cc0abe84cbb4daa56538f48628f84498e57",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000177",
+      "filename": "ELV-000177_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000177/ELV-000177_ref.png",
+      "bytes": 1804848,
+      "sha256": "bc8c92fb7e7b276ec2e227efd13a1628971c74cd04c9c8bc743b154864dee702",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000181",
+      "filename": "ELV-000181_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000181/ELV-000181_ref.png",
+      "bytes": 1390014,
+      "sha256": "cf71cb5ca70a550c8ed95b6275a8881fdd2fdf583f6f50080f743326f1bba9f3",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000182",
+      "filename": "ELV-000182_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000182/ELV-000182_ref.png",
+      "bytes": 1396507,
+      "sha256": "78593724b11b2a22936e0deefb550da8e93ae54b22563212a4a6cd7e64903560",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000184",
+      "filename": "ELV-000184_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000184/ELV-000184_ref.png",
+      "bytes": 1436545,
+      "sha256": "3cdce23336d2932c02c2a5c87cda9f83290ab07109dc2835ab4352050668a9c5",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000188",
+      "filename": "ELV-000188_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000188/ELV-000188_ref.png",
+      "bytes": 1489493,
+      "sha256": "9bc7bae1abef3ddfc0a2f80561efbcf6690b83d791c0ff6b5946bb7e0e2ade3e",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000190",
+      "filename": "ELV-000190_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000190/ELV-000190_ref.png",
+      "bytes": 1375880,
+      "sha256": "15154a999f9d6b44c0b5b9c2cd315aa6df82e6d93be2d9b195a706836c8a9650",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000192",
+      "filename": "ELV-000192_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000192/ELV-000192_ref.png",
+      "bytes": 1467974,
+      "sha256": "148b4e458c2f5045b092e1282d1f8223ac57d3d9332df810381af18d9505c3d5",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000193",
+      "filename": "ELV-000193_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000193/ELV-000193_ref.png",
+      "bytes": 1441851,
+      "sha256": "19e2476d02b5d33865fcc7c419e2cf66c7cc97f12f4c7316a89e9804b2250d3a",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000197",
+      "filename": "ELV-000197_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000197/ELV-000197_ref.png",
+      "bytes": 1593172,
+      "sha256": "23268b5f0e1e1924eb16bf8e165e9341007811240954f9d584405799300dde62",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000200",
+      "filename": "ELV-000200_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000200/ELV-000200_ref.png",
+      "bytes": 1440638,
+      "sha256": "6dc64f97d1ae3ce0f8b07cf574ab5ab90a47eff8e8509d6196feca98b6ad353d",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000205",
+      "filename": "ELV-000205_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000205/ELV-000205_ref.png",
+      "bytes": 1447263,
+      "sha256": "8ae22cc7683ee47a8ce78e96646388ea162919f7602b417e795a85176a2856bf",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000207",
+      "filename": "ELV-000207_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000207/ELV-000207_ref.png",
+      "bytes": 1302922,
+      "sha256": "3a86a0014ca1a1ba2b3a285df3e9cad49ef431c9c065d2d823fe871d9dccf5b0",
+      "source_archive": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf"
+    },
+    {
+      "character_id": "ELV-000206",
+      "filename": "ELV-000206_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000206/ELV-000206_ref.png",
+      "bytes": 1470665,
+      "sha256": "a95cb3d0001fe042590ca10f5e7633551ca35bc8b1d2b4b3c456950e8db05e15",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000211",
+      "filename": "ELV-000211_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000211/ELV-000211_ref.png",
+      "bytes": 1383325,
+      "sha256": "0636c7561c1044a6510a592929c780c6c4283b77f7dd336930d65c8d10366e72",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000214",
+      "filename": "ELV-000214_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000214/ELV-000214_ref.png",
+      "bytes": 1493619,
+      "sha256": "af729dec1a371be34e87a1554dc590337cf1d9fceb4c231e4c3883bb39de7878",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000217",
+      "filename": "ELV-000217_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000217/ELV-000217_ref.png",
+      "bytes": 1408352,
+      "sha256": "e1853b2fde3053a2c47c639fd5221faa7d59a7b4874afa100115d78358b02b44",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000219",
+      "filename": "ELV-000219_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000219/ELV-000219_ref.png",
+      "bytes": 1363857,
+      "sha256": "154cbdb6aea608b065ef80a3d75ef0195aa79e1921ac53bee42f6aeba150969f",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000222",
+      "filename": "ELV-000222_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000222/ELV-000222_ref.png",
+      "bytes": 1435474,
+      "sha256": "11d2d2e5433245c0c6159e0cc4329ed1349bb7cdb84a704a021e727458433efb",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000223",
+      "filename": "ELV-000223_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000223/ELV-000223_ref.png",
+      "bytes": 1626245,
+      "sha256": "c212711411bc00a7df77b260101179700b5ee3088e1537a0d87909590d3c7c66",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000224",
+      "filename": "ELV-000224_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000224/ELV-000224_ref.png",
+      "bytes": 1308220,
+      "sha256": "26b6c7825d4f218b45d5e785f4d83fcf2bff7a9617c24f5762b26b97fb9bb5e3",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000229",
+      "filename": "ELV-000229_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000229/ELV-000229_ref.png",
+      "bytes": 1433011,
+      "sha256": "0cc8e696c5be601141e2875fc85effce34ccbeb321439f60ad8fcfd32cb484c3",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000230",
+      "filename": "ELV-000230_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000230/ELV-000230_ref.png",
+      "bytes": 1472358,
+      "sha256": "6c1e2a62c04895e790548c3c09ec2e67f8047c6a108fedd45c9e8582ec90338d",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000233",
+      "filename": "ELV-000233_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000233/ELV-000233_ref.png",
+      "bytes": 1627294,
+      "sha256": "f2766de28bb2d667dd944860a2460a150b5dab29e45a3ad90c2051012f380989",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000234",
+      "filename": "ELV-000234_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000234/ELV-000234_ref.png",
+      "bytes": 1659135,
+      "sha256": "d97f69914de1e8ebf652372e4a844f527923e658c6b8891e4fec83e1f3f4d2d0",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000236",
+      "filename": "ELV-000236_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000236/ELV-000236_ref.png",
+      "bytes": 1430954,
+      "sha256": "9afe8081498593d8c5c962055c41949baf5ee5c2e660c1e66ce6dfa98572c275",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000241",
+      "filename": "ELV-000241_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000241/ELV-000241_ref.png",
+      "bytes": 1411610,
+      "sha256": "a9cc159d07b2aa13fc434e49da589415e2d6358019e4b219b280e22401731a72",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000246",
+      "filename": "ELV-000246_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000246/ELV-000246_ref.png",
+      "bytes": 1440451,
+      "sha256": "2c1aca0ed30057a70ccfe38519b4d15a88aac19d641ccb65bdc86551b0c84d98",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000247",
+      "filename": "ELV-000247_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000247/ELV-000247_ref.png",
+      "bytes": 1400068,
+      "sha256": "67e56a3a58e6e8eeecdb041ec45b868bc613ec666e7d51b6e1ef5733ee58c8eb",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000250",
+      "filename": "ELV-000250_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000250/ELV-000250_ref.png",
+      "bytes": 1428554,
+      "sha256": "de71b202205fc21d28a63e800933865577cbec88d3d90049a4c85128afd38fac",
+      "source_archive": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f"
+    },
+    {
+      "character_id": "ELV-000252",
+      "filename": "ELV-000252_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000252/ELV-000252_ref.png",
+      "bytes": 1514100,
+      "sha256": "390f567d8c173ab3cc35d30d9374f42c362254325a2975be499994423faacd69",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000253",
+      "filename": "ELV-000253_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000253/ELV-000253_ref.png",
+      "bytes": 1401548,
+      "sha256": "27ef264824566586233c4d8980a176175eb18149db13117542cf506cde6bc516",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000260",
+      "filename": "ELV-000260_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000260/ELV-000260_ref.png",
+      "bytes": 1414130,
+      "sha256": "4438f65e06785ef8bd98f93ee42e99fdb10906589b769969aff60101f18d6dc5",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000263",
+      "filename": "ELV-000263_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000263/ELV-000263_ref.png",
+      "bytes": 1716807,
+      "sha256": "1c5e75c126c4c1033c1e4f938d8c5fe279cb3bc74e7dbf647059835f52dfea6e",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000264",
+      "filename": "ELV-000264_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000264/ELV-000264_ref.png",
+      "bytes": 1440950,
+      "sha256": "01a3c1936dfb7789e6ca53fe56db4322a0bfb8ce0ab6f0942a68efe9625e04fa",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000267",
+      "filename": "ELV-000267_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000267/ELV-000267_ref.png",
+      "bytes": 1464108,
+      "sha256": "87d905db0bb2cd1e5e690f751e33d746346258e0136c83c646a27623ff2b57bc",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000269",
+      "filename": "ELV-000269_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000269/ELV-000269_ref.png",
+      "bytes": 1347450,
+      "sha256": "949e7a30ca8de9aae614f96c67a7fea755a3e8b1d787a4f19d46682305495712",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000270",
+      "filename": "ELV-000270_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000270/ELV-000270_ref.png",
+      "bytes": 1472101,
+      "sha256": "95f8f8b44ccba681f12643a3eef1d1b2beadc8330e5830fc346ecca9fff8c41c",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000271",
+      "filename": "ELV-000271_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000271/ELV-000271_ref.png",
+      "bytes": 1360961,
+      "sha256": "0fc4fc3092b2f51ae17c1d439caea8d2048d5fb82664f9c962037c17b5ecb5c2",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000274",
+      "filename": "ELV-000274_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000274/ELV-000274_ref.png",
+      "bytes": 1618879,
+      "sha256": "e9363fa910115cf634aeda8b7048cfe39a3fb0cb845853fc4647abb064e7ff3a",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000277",
+      "filename": "ELV-000277_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000277/ELV-000277_ref.png",
+      "bytes": 1594439,
+      "sha256": "5ff860a8d724e21f57b1ca9f63bd23c33a876f822010a52c0a4bdf765d6a403b",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000279",
+      "filename": "ELV-000279_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000279/ELV-000279_ref.png",
+      "bytes": 1456089,
+      "sha256": "4eca15c0975f3ed69cdf41092a01d30ca5498c2d6d4883d64ea51ed5aeeb0b23",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000280",
+      "filename": "ELV-000280_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000280/ELV-000280_ref.png",
+      "bytes": 1476191,
+      "sha256": "597be1946910d060f00f4c7096a9058a78042fea952a2f7b965c4e456d995066",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000283",
+      "filename": "ELV-000283_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000283/ELV-000283_ref.png",
+      "bytes": 1407727,
+      "sha256": "492bb2c39db6601ac7ee8b579695e11ef5ab791b32d25bdf92dc2fb057e227c9",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000284",
+      "filename": "ELV-000284_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000284/ELV-000284_ref.png",
+      "bytes": 1375738,
+      "sha256": "541e9a32076383645c01666c8dd67c6c3f27fcc337bb6c2430eb2782a98645a8",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000289",
+      "filename": "ELV-000289_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000289/ELV-000289_ref.png",
+      "bytes": 1597440,
+      "sha256": "50dd682d89246b914b2cfdf61d385e400623c62e11f9bb14cba8d66b50f99f6e",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000290",
+      "filename": "ELV-000290_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000290/ELV-000290_ref.png",
+      "bytes": 1482366,
+      "sha256": "238daad81811e6fdd2ebeda9307e798a771101ba758eb94e92979b39c1abf7cd",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000291",
+      "filename": "ELV-000291_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000291/ELV-000291_ref.png",
+      "bytes": 1427845,
+      "sha256": "d6948f3d9860c96b7033bfecaaa106f46164ef0adb5a96cd8080542fdea293f2",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000292",
+      "filename": "ELV-000292_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000292/ELV-000292_ref.png",
+      "bytes": 1407106,
+      "sha256": "89174032cee84d771db5f3d699e55e2495eb5fc63aff248cc68bc66904e7cc39",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000294",
+      "filename": "ELV-000294_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000294/ELV-000294_ref.png",
+      "bytes": 1349390,
+      "sha256": "a627045fe59ff0ac57865d09bb692b38e1f8a2d0e17feceed6ba5167b81b6db0",
+      "source_archive": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e"
+    },
+    {
+      "character_id": "ELV-000296",
+      "filename": "ELV-000296_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000296/ELV-000296_ref.png",
+      "bytes": 1342786,
+      "sha256": "3139f2f9a1741937b8a6e6c03b60e3efcade8b3210eb324b91ba46f91975fa11",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000297",
+      "filename": "ELV-000297_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000297/ELV-000297_ref.png",
+      "bytes": 1403818,
+      "sha256": "4308a7ec92066e9025131911a5b46f04db214596e505f6431626d02e4342ef1f",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000301",
+      "filename": "ELV-000301_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000301/ELV-000301_ref.png",
+      "bytes": 1519256,
+      "sha256": "ba4b9f451e378e7cc74b71ba85de0c5fd35cd42747db64b2e4750c2178d5ae7c",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000302",
+      "filename": "ELV-000302_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000302/ELV-000302_ref.png",
+      "bytes": 1374426,
+      "sha256": "195e6f494be2ec809d14b56f682e26a4e26acb991486bd42750f1e7084eab6e1",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000304",
+      "filename": "ELV-000304_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000304/ELV-000304_ref.png",
+      "bytes": 1700514,
+      "sha256": "a8382cabf96bdf53b44974dd063266b35fc0ed6bf932388e7b179eeb172dbabf",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000308",
+      "filename": "ELV-000308_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000308/ELV-000308_ref.png",
+      "bytes": 1492228,
+      "sha256": "e15c31b75271b6152f5a9856dc6cb1d4b9126066a917ebdbc1f014bd3cf2ae3e",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000309",
+      "filename": "ELV-000309_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000309/ELV-000309_ref.png",
+      "bytes": 1512607,
+      "sha256": "ec352360bbd7529078a8824d104ce1961d5ca09e1d55a3dea9f2b9fe6d9dcacb",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000310",
+      "filename": "ELV-000310_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000310/ELV-000310_ref.png",
+      "bytes": 1773243,
+      "sha256": "12b909963521709e4af36f0a1101a5664f10ba91ca76e4c28adeb5beab16b715",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000311",
+      "filename": "ELV-000311_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000311/ELV-000311_ref.png",
+      "bytes": 1448723,
+      "sha256": "6c695af168e3f6b9b75f6afddbd0b00114f119ee06af3fff8676741698a7bfad",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000313",
+      "filename": "ELV-000313_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000313/ELV-000313_ref.png",
+      "bytes": 1491751,
+      "sha256": "4cc0a426acb9534fc99fe4fd314f73410bbc62fe8314a36a5da6eab9e255574e",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000314",
+      "filename": "ELV-000314_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000314/ELV-000314_ref.png",
+      "bytes": 1652113,
+      "sha256": "26aba8f75f82e2a8f02d70512f4923c89d53d438c6d8f0c5ccdf1a8ca6fe3263",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000319",
+      "filename": "ELV-000319_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000319/ELV-000319_ref.png",
+      "bytes": 1406334,
+      "sha256": "2cfb72b17771c68625e87d596066ea93b45c38f509b18f97060ef3fa88ef8fe1",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000324",
+      "filename": "ELV-000324_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000324/ELV-000324_ref.png",
+      "bytes": 1491453,
+      "sha256": "de35dfc97f11f20d0d2b707335a4e220f8be4a46a79e6311fc185aabc0896bf4",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000329",
+      "filename": "ELV-000329_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000329/ELV-000329_ref.png",
+      "bytes": 1467616,
+      "sha256": "7820b1c86d7fda1474c56aa89c36e3c9fbc88d5c17bbd16b6c619380a5d823b5",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000331",
+      "filename": "ELV-000331_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000331/ELV-000331_ref.png",
+      "bytes": 1457237,
+      "sha256": "eaf105e330209dcfb108213155321341623b1b95bab85538d711237134f0f5dd",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000332",
+      "filename": "ELV-000332_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000332/ELV-000332_ref.png",
+      "bytes": 1379011,
+      "sha256": "1172207fd258b7417dd21732a886426d452455d2a98fff2a4e3601be0766de0b",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000335",
+      "filename": "ELV-000335_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000335/ELV-000335_ref.png",
+      "bytes": 1588517,
+      "sha256": "9f108ddc2d62fc87bf4919bdd3dd0fe93239ce6e4ad9ca7e74d687585860b615",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000336",
+      "filename": "ELV-000336_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000336/ELV-000336_ref.png",
+      "bytes": 1316299,
+      "sha256": "183d3cc9070b783bd0d8e2f7f18091691af5ad7d00014a2e1a9a0921af85b120",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000338",
+      "filename": "ELV-000338_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000338/ELV-000338_ref.png",
+      "bytes": 1841687,
+      "sha256": "3196b502a74acbec615373a05114744979e1e4d6f960759efb91434186d388c1",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000343",
+      "filename": "ELV-000343_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000343/ELV-000343_ref.png",
+      "bytes": 1497524,
+      "sha256": "ae022cbba42e562e6005529a6091b3ad809b8016f241ee4ac388c5e96ac08f58",
+      "source_archive": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+      "source_file_id": "file_00000000a21081f798947486eea52920"
+    },
+    {
+      "character_id": "ELV-000344",
+      "filename": "ELV-000344_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000344/ELV-000344_ref.png",
+      "bytes": 1443171,
+      "sha256": "bd9d86344c4a25ff94d1deaf1d97b98f27afc3805024c0aed61e5df517cb45b4",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000346",
+      "filename": "ELV-000346_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000346/ELV-000346_ref.png",
+      "bytes": 1365915,
+      "sha256": "f1a09ade39f64218be7eb5a770b93bd88fc6d47243be194d1c90e5102ea9b47b",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000348",
+      "filename": "ELV-000348_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000348/ELV-000348_ref.png",
+      "bytes": 1484401,
+      "sha256": "ba1dcfc868a030b6dec1571e3b7c7ccb8e968a95aa7bad33475ce3fc8840bd25",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000350",
+      "filename": "ELV-000350_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000350/ELV-000350_ref.png",
+      "bytes": 1472271,
+      "sha256": "e72b5ef4b3c6acea243db2bb7cf0eb94690d218f193836436b5e13a04fb609d3",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000351",
+      "filename": "ELV-000351_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000351/ELV-000351_ref.png",
+      "bytes": 1599892,
+      "sha256": "7328994bba700e773e51931a139ca736317c7f2f061014b35a1136f94448ff5f",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000352",
+      "filename": "ELV-000352_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000352/ELV-000352_ref.png",
+      "bytes": 1291603,
+      "sha256": "8aa1ed55d0156b5aa46d4840372fb5f680b31867ff05aa385f60b45878e6c29a",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000353",
+      "filename": "ELV-000353_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000353/ELV-000353_ref.png",
+      "bytes": 1466432,
+      "sha256": "872a56ce0c8aa0e830bdefcc77eee50da77f92ad11138b3729c7c7edaa0998ea",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000354",
+      "filename": "ELV-000354_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000354/ELV-000354_ref.png",
+      "bytes": 1450731,
+      "sha256": "4bccb8099779735380313be81fe7c2166c9d81e8eafdd0a197388e160f20a2e4",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000357",
+      "filename": "ELV-000357_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000357/ELV-000357_ref.png",
+      "bytes": 1384124,
+      "sha256": "e1d483946e13c30d800fa9b46306b467cafdec66196d15426c53cde314a01ffd",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000358",
+      "filename": "ELV-000358_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000358/ELV-000358_ref.png",
+      "bytes": 1397982,
+      "sha256": "d068c358c99df0c906cdca9813e773070c873a868390266117dae79d03e40fc7",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000359",
+      "filename": "ELV-000359_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000359/ELV-000359_ref.png",
+      "bytes": 1345928,
+      "sha256": "eba9a5e80f7c1dcaa9b2ed1a0b20db99e95630ea4a15387cde85e0e2bbf1c660",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000361",
+      "filename": "ELV-000361_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000361/ELV-000361_ref.png",
+      "bytes": 1573965,
+      "sha256": "d757f80512df4e8dc75286c5f2b63be114df5e8178782dacb9f5bcc49fb4ee4c",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000363",
+      "filename": "ELV-000363_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000363/ELV-000363_ref.png",
+      "bytes": 1434189,
+      "sha256": "c3bcd91f2ba87f9b64cc7149af2487762c8fcf5f4a2a96e755e0b9b59c56c93f",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000364",
+      "filename": "ELV-000364_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000364/ELV-000364_ref.png",
+      "bytes": 1761619,
+      "sha256": "a82b26317e919f4222f03ba3f39fcaf68dee8a91131b9adc255ec26961aed805",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000365",
+      "filename": "ELV-000365_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000365/ELV-000365_ref.png",
+      "bytes": 1458653,
+      "sha256": "46b192b5b688dce45b7bc6cff6915c1d081eeea9062021d93566118187565a56",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000366",
+      "filename": "ELV-000366_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000366/ELV-000366_ref.png",
+      "bytes": 1614623,
+      "sha256": "e30530542e96fa7c82b5f39485fea54c596ca0e4e0e00e084b47100972ebabf3",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000367",
+      "filename": "ELV-000367_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000367/ELV-000367_ref.png",
+      "bytes": 1285147,
+      "sha256": "45a6de642a26a81a896ae9aca806e3745b826b235aef2c74227f155932cd0cbe",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000371",
+      "filename": "ELV-000371_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000371/ELV-000371_ref.png",
+      "bytes": 1557173,
+      "sha256": "c42f61abac651a96998e2f833b8b5a25dc89c53e83489b6a7d0410eeac3d01b7",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000372",
+      "filename": "ELV-000372_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000372/ELV-000372_ref.png",
+      "bytes": 1682255,
+      "sha256": "b550db0d8d8397d2fca68dd07ae02c12150760fe8e199e7e44703f08ac191baa",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000376",
+      "filename": "ELV-000376_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000376/ELV-000376_ref.png",
+      "bytes": 1463058,
+      "sha256": "a3d9ddcd248ce1c0315517508cd6143f32880ec523fca2509cd5a0e95547d705",
+      "source_archive": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84"
+    },
+    {
+      "character_id": "ELV-000377",
+      "filename": "ELV-000377_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000377/ELV-000377_ref.png",
+      "bytes": 1426210,
+      "sha256": "23fdb125a4bc4dd73e797de9e7ae884a82690c634ecde81b3440c55d770272ad",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000379",
+      "filename": "ELV-000379_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000379/ELV-000379_ref.png",
+      "bytes": 1366047,
+      "sha256": "693465b3c03cc7aec59434058014ce59be5eeb66b6e8f1878f521fd4541d19cb",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000381",
+      "filename": "ELV-000381_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000381/ELV-000381_ref.png",
+      "bytes": 1458145,
+      "sha256": "296df0962c93024de22d82a955f7432e5796e1a9a3c0bb495333f0a776efaf0c",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000384",
+      "filename": "ELV-000384_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000384/ELV-000384_ref.png",
+      "bytes": 1394622,
+      "sha256": "e2b5b2f8ddfa08385c633d1a06c30f82115392c02b0d3a77285071e44506bd61",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000391",
+      "filename": "ELV-000391_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000391/ELV-000391_ref.png",
+      "bytes": 1433334,
+      "sha256": "26475ca3003484123d70ec2d9a24b956b2eff41de7fb6e9bedd1b1f0f315a0da",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000392",
+      "filename": "ELV-000392_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000392/ELV-000392_ref.png",
+      "bytes": 1543836,
+      "sha256": "f6a0ea2ce076bce53afa50b2d045e51492749a81f08a7b776244bb46236012ca",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000393",
+      "filename": "ELV-000393_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000393/ELV-000393_ref.png",
+      "bytes": 1458866,
+      "sha256": "4dab8ea35475f5179a2a2f6827e2eca4731ba488704ce4e174b67f33e1218feb",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000399",
+      "filename": "ELV-000399_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000399/ELV-000399_ref.png",
+      "bytes": 1485544,
+      "sha256": "1dc2e17c4b6e20f855edaaf7b6c6228f2dd537852ff318907f2667f09a052cde",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000400",
+      "filename": "ELV-000400_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000400/ELV-000400_ref.png",
+      "bytes": 1560672,
+      "sha256": "bd0ee8ee4c9154a28e27562032b3c90c3881e7fbbb6bb515b404951d392ced97",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000401",
+      "filename": "ELV-000401_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000401/ELV-000401_ref.png",
+      "bytes": 1520687,
+      "sha256": "8ce4e2460e679c0f37e8a4b812e2216c96e057d03e01f60a85c1e30d9a2d2e2b",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000402",
+      "filename": "ELV-000402_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000402/ELV-000402_ref.png",
+      "bytes": 1729221,
+      "sha256": "351f9e7804301ff60e0f7391cb22c3891e6dea8adf911c598ab92691aa789cae",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000403",
+      "filename": "ELV-000403_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000403/ELV-000403_ref.png",
+      "bytes": 1514763,
+      "sha256": "36ae22173525df8a247ff235e08d131ab83c06a2853883c1bb4b0cd68db73841",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000409",
+      "filename": "ELV-000409_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000409/ELV-000409_ref.png",
+      "bytes": 1771422,
+      "sha256": "9026537d20aa5d6e548ec7cd141be4accebe52f86d47612b21af0cd270fff6fa",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000411",
+      "filename": "ELV-000411_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000411/ELV-000411_ref.png",
+      "bytes": 1383742,
+      "sha256": "4afbc91fadf99fec7a465e164f86ba96cc347ad2e5a2825e012d088b3d5c0e24",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000413",
+      "filename": "ELV-000413_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000413/ELV-000413_ref.png",
+      "bytes": 1642244,
+      "sha256": "9acce233e2aa5001ffd8244f1925a8d5e6a2e9c4c8b7b71340a17639874f2994",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000414",
+      "filename": "ELV-000414_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000414/ELV-000414_ref.png",
+      "bytes": 1402862,
+      "sha256": "d794ba7d90c7ea48efebb5dcf303a77e5b0619d646e51c29c99862701f21a345",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000417",
+      "filename": "ELV-000417_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000417/ELV-000417_ref.png",
+      "bytes": 1274683,
+      "sha256": "8ca2b6fd09292c202c438b47349ba996f3b5decbd7eb3ecc0ddf174a41d99c90",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000419",
+      "filename": "ELV-000419_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000419/ELV-000419_ref.png",
+      "bytes": 1372787,
+      "sha256": "636eceb5102432c65fba1d316a0a6b1c74d53761e15bb9453d817b76a0797afa",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000420",
+      "filename": "ELV-000420_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000420/ELV-000420_ref.png",
+      "bytes": 1631900,
+      "sha256": "35c3da428bd88373c55108624dd8745f1cdf367c340d3ea00e877aeb2ccd2019",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000422",
+      "filename": "ELV-000422_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000422/ELV-000422_ref.png",
+      "bytes": 1334053,
+      "sha256": "f13c48c32e7a1f3ebd5221da2851ccf8574ece1b95bf6cc7d2e6b441bc84d493",
+      "source_archive": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0"
+    },
+    {
+      "character_id": "ELV-000424",
+      "filename": "ELV-000424_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000424/ELV-000424_ref.png",
+      "bytes": 1330960,
+      "sha256": "fb19ff78224903f307ded057c00d09ca66dafb6884c64b94d3599f6c66c6881f",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000425",
+      "filename": "ELV-000425_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000425/ELV-000425_ref.png",
+      "bytes": 1362714,
+      "sha256": "733b0d34a7d5030004ee07815181d76535337ddd367e8c054c38a4987b63713f",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000426",
+      "filename": "ELV-000426_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000426/ELV-000426_ref.png",
+      "bytes": 1537214,
+      "sha256": "35dfd047e44e8be9cf4f579d97f1a7a6c0442acf38f2b43142a2d693514c8010",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000428",
+      "filename": "ELV-000428_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000428/ELV-000428_ref.png",
+      "bytes": 1385473,
+      "sha256": "907244899d661a9ed8e0f4be09da5fe8a9bc3ab56ca02c854b8f71df7f9b1c20",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000429",
+      "filename": "ELV-000429_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000429/ELV-000429_ref.png",
+      "bytes": 1373051,
+      "sha256": "20d7523d6025e8fe30c593c459b6d60b3e45e6c4e67b39b065cfb4a17000af9e",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000431",
+      "filename": "ELV-000431_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000431/ELV-000431_ref.png",
+      "bytes": 1489095,
+      "sha256": "782fe347ddd7eef17bdedcb602cc74fa5a29d754fedcf92fd8d990832dce1a88",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000432",
+      "filename": "ELV-000432_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000432/ELV-000432_ref.png",
+      "bytes": 1692487,
+      "sha256": "391cce2e6425a6f627d99bffcc59ba5e4a1e943ce2a5ef9516279837574123d0",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000433",
+      "filename": "ELV-000433_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000433/ELV-000433_ref.png",
+      "bytes": 1295025,
+      "sha256": "02bc35a7f72251b87789f54434909450ae3de4bc472205ba93cd1f427fe188e0",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000434",
+      "filename": "ELV-000434_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000434/ELV-000434_ref.png",
+      "bytes": 1341078,
+      "sha256": "593f3c64a53fa8792baca691bf2fcdd0cd2c51a214a7fdb11651c513bda9e15b",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000443",
+      "filename": "ELV-000443_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000443/ELV-000443_ref.png",
+      "bytes": 1510731,
+      "sha256": "ac24c58cd08cc84aee7de673e4e3005e7dddee13a0bc3ebc2e565bcee688ffd2",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000446",
+      "filename": "ELV-000446_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000446/ELV-000446_ref.png",
+      "bytes": 1400325,
+      "sha256": "beca68eea304058f90bf23ee5b34d309ff53bdcdbd8a61fd89941c3beeb66298",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000449",
+      "filename": "ELV-000449_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000449/ELV-000449_ref.png",
+      "bytes": 1488977,
+      "sha256": "3ad8bfe73e154a317e752033e4e9695e5c075f2fbb9383771505b96076fa9387",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000452",
+      "filename": "ELV-000452_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000452/ELV-000452_ref.png",
+      "bytes": 1381839,
+      "sha256": "857a401a5e31c1316781b9e2907b00d7e492043a843f0ed6a27f104b660da58b",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000453",
+      "filename": "ELV-000453_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000453/ELV-000453_ref.png",
+      "bytes": 1498542,
+      "sha256": "6e837af5cd2270dcb962d5ef585c2e82ea497b5f36532533e27280583e7666a0",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000454",
+      "filename": "ELV-000454_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000454/ELV-000454_ref.png",
+      "bytes": 1435115,
+      "sha256": "e6a49870561d3d22075b9f04b863830bc2952d33310e32a0e93932c758469d01",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000457",
+      "filename": "ELV-000457_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000457/ELV-000457_ref.png",
+      "bytes": 1332995,
+      "sha256": "2fed4efeb362fab5b7f5dcf669c381a2bcc040e7c7983aec2dd02d781e7e8214",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000458",
+      "filename": "ELV-000458_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000458/ELV-000458_ref.png",
+      "bytes": 1371558,
+      "sha256": "a70c9a4771ac6caf8703d286a42c61d5633964751878f6423c1e6c688f42b0bb",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000461",
+      "filename": "ELV-000461_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000461/ELV-000461_ref.png",
+      "bytes": 1394710,
+      "sha256": "24dfd4e82e50956047133aedf9d5df68c3fcde0eec2f72dd984f129d3a00c823",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000462",
+      "filename": "ELV-000462_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000462/ELV-000462_ref.png",
+      "bytes": 1389280,
+      "sha256": "b5c9a1e8c39c68c673078b6611e7d840501eedcfec88d9b0556bfa971ce80361",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000463",
+      "filename": "ELV-000463_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000463/ELV-000463_ref.png",
+      "bytes": 1388812,
+      "sha256": "8a79b2264e631f1c2e1eed8cbc85907258af0c40402a686eedb7e636ac2af8ce",
+      "source_archive": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18"
+    },
+    {
+      "character_id": "ELV-000464",
+      "filename": "ELV-000464_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000464/ELV-000464_ref.png",
+      "bytes": 1621822,
+      "sha256": "fc5993415d4b7445aacae387f7acc4e9dded6fa528804e9bbfb82daba9a1ea82",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000466",
+      "filename": "ELV-000466_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000466/ELV-000466_ref.png",
+      "bytes": 1452410,
+      "sha256": "6af1d8109df4799f097d1f3acd6b8a99382f00fec2a95fd37317cf5ce09065e4",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000467",
+      "filename": "ELV-000467_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000467/ELV-000467_ref.png",
+      "bytes": 1418435,
+      "sha256": "91ca6d081762cb35ce87c3c2f3904960366190da7f303982e933075121b73346",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000469",
+      "filename": "ELV-000469_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000469/ELV-000469_ref.png",
+      "bytes": 1438941,
+      "sha256": "dfc0c781b0e91da8983a11ad3b2c12133a343f89929dc8e4914c38070e0de89f",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000470",
+      "filename": "ELV-000470_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000470/ELV-000470_ref.png",
+      "bytes": 1517807,
+      "sha256": "74a45adc73407a5846647d42e7546f13bf318e92c3fe02af40d975b9c025480b",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000471",
+      "filename": "ELV-000471_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000471/ELV-000471_ref.png",
+      "bytes": 1443863,
+      "sha256": "ab51c375f22c54ea35c92bcf1e295f4026b3085ba5a2fad5781ef89bc9dc28e8",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000474",
+      "filename": "ELV-000474_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000474/ELV-000474_ref.png",
+      "bytes": 1409864,
+      "sha256": "1545353438c659f9c9110bc64240d58484bbbf76bffdf2480366a35f0656bb68",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000477",
+      "filename": "ELV-000477_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000477/ELV-000477_ref.png",
+      "bytes": 1613853,
+      "sha256": "09477240261886685262a1cff7d6393d3b4fe523b66df17c3947653c2787a5d1",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000481",
+      "filename": "ELV-000481_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000481/ELV-000481_ref.png",
+      "bytes": 1407079,
+      "sha256": "ef839f41016291bb4371d3846477f49cb2f60e47ff18327dc4b48137a21a821e",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000482",
+      "filename": "ELV-000482_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000482/ELV-000482_ref.png",
+      "bytes": 1376442,
+      "sha256": "49117ebd4d6ffb1584cc898e3ae5155b42f2673d73469d4b6c64bcb684e2c775",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000485",
+      "filename": "ELV-000485_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000485/ELV-000485_ref.png",
+      "bytes": 1254171,
+      "sha256": "791ed4bf0992099c6af7a75b1cdc7b5b3548cad02c852f4d1f86f4450860ad64",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000486",
+      "filename": "ELV-000486_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000486/ELV-000486_ref.png",
+      "bytes": 1558598,
+      "sha256": "9871a2d7e65dad2470e7255bcc3cbd449984b72dd0e8da49dcc053166773b9f2",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000488",
+      "filename": "ELV-000488_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000488/ELV-000488_ref.png",
+      "bytes": 1373446,
+      "sha256": "11f25a71931bb00cc9a7a1dab68b7c678daee7c584ac9b8818fd958ca7c91c72",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000489",
+      "filename": "ELV-000489_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000489/ELV-000489_ref.png",
+      "bytes": 1394410,
+      "sha256": "29dc8b1020265c28676b31b4adffdb7e277b9d7919297dd2ca4df2c4036de730",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000491",
+      "filename": "ELV-000491_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000491/ELV-000491_ref.png",
+      "bytes": 1423610,
+      "sha256": "3f28d9d9e4ed00d196c0219ba951198059e6aea577057f38db68a2d841987573",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000494",
+      "filename": "ELV-000494_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000494/ELV-000494_ref.png",
+      "bytes": 1422346,
+      "sha256": "91a93d525dd10fef3d3af8fd15c01c254f8524cd0117a3c789aacaca25492dd8",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000496",
+      "filename": "ELV-000496_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000496/ELV-000496_ref.png",
+      "bytes": 1405244,
+      "sha256": "13cec168fef2da1b925370b802fc998984582aa3a0ed93cd85e9829a9e7f4fb7",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000498",
+      "filename": "ELV-000498_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000498/ELV-000498_ref.png",
+      "bytes": 1316287,
+      "sha256": "cc3e1c13c6a4fb5b39111a56764cb3735a73999e90135fd965ddbfa9046eb313",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000500",
+      "filename": "ELV-000500_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000500/ELV-000500_ref.png",
+      "bytes": 1412130,
+      "sha256": "e5e40f6be35f2d910a08b43841f0f51e382d7b636c5c7a7dce00369b7ae16be5",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000502",
+      "filename": "ELV-000502_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000502/ELV-000502_ref.png",
+      "bytes": 1343270,
+      "sha256": "df80668f2dd53e2e449a0dc647e96bab7796542b2e7b599bb207d482ba4f09b1",
+      "source_archive": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb"
+    },
+    {
+      "character_id": "ELV-000503",
+      "filename": "ELV-000503_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000503/ELV-000503_ref.png",
+      "bytes": 1441546,
+      "sha256": "f579743e257cf21a31c8c06c6ca670e3b9b660854973137164d59a063c46d44f",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000504",
+      "filename": "ELV-000504_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000504/ELV-000504_ref.png",
+      "bytes": 1445642,
+      "sha256": "882633afca0cc4be46d85bb71fbf5727ccaedb37c620173200833191a1f8d48a",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000506",
+      "filename": "ELV-000506_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000506/ELV-000506_ref.png",
+      "bytes": 1422704,
+      "sha256": "4dd75571f727638f0af2ce35202120c7620ebf5873d7939715bcae2c5940ad93",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000507",
+      "filename": "ELV-000507_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000507/ELV-000507_ref.png",
+      "bytes": 1411510,
+      "sha256": "c60e1d952954800bc6148e0886f519b66fabfced8c30244471b6006c09198a7d",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000509",
+      "filename": "ELV-000509_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000509/ELV-000509_ref.png",
+      "bytes": 1512001,
+      "sha256": "2200d2d8fc7350747653f0d8a307546d4d2686a95df7d0d7b3c8a5252373cf5b",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000510",
+      "filename": "ELV-000510_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000510/ELV-000510_ref.png",
+      "bytes": 1422153,
+      "sha256": "a4e2cc4697bc6c04815e4575a623e06ffde62186ec3dc0f70f6a62e710d2c768",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000515",
+      "filename": "ELV-000515_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000515/ELV-000515_ref.png",
+      "bytes": 1453871,
+      "sha256": "bc993afe0a3a52fc74bcef98f9a71779bf59360e07256c20f5367a0bccd27ad9",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000516",
+      "filename": "ELV-000516_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000516/ELV-000516_ref.png",
+      "bytes": 1731491,
+      "sha256": "a43e3416d4ab71f814bdc2a5f76058b81cb483940b8a4f82ec58a512401791d4",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000517",
+      "filename": "ELV-000517_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000517/ELV-000517_ref.png",
+      "bytes": 1408260,
+      "sha256": "cc434faf6ac2ed004085b8da1e360caceffca932b7e4940606af1485f447e1b5",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000518",
+      "filename": "ELV-000518_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000518/ELV-000518_ref.png",
+      "bytes": 1400713,
+      "sha256": "2cacdfbed8c736a34b30c49a829f8f23e3ed38ec686daf351334c1eee3c8f024",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000520",
+      "filename": "ELV-000520_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000520/ELV-000520_ref.png",
+      "bytes": 1427293,
+      "sha256": "74f2b1f16b911a4ef9873edc4441c23d7c611e0310a8eba3f4f5231ad032706d",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000521",
+      "filename": "ELV-000521_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000521/ELV-000521_ref.png",
+      "bytes": 1536239,
+      "sha256": "27e57867e74609a6671366b6246da67cdf24cf5507101a635b814980590360e2",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000522",
+      "filename": "ELV-000522_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000522/ELV-000522_ref.png",
+      "bytes": 1389229,
+      "sha256": "3adebd2c7189282e1bc116547e3d91f3500d50e877fdaf8211be3482c580e912",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000523",
+      "filename": "ELV-000523_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000523/ELV-000523_ref.png",
+      "bytes": 1482060,
+      "sha256": "ed36ba9b7092001ee2ad7438611f18cfeb742d9b1857fd114ad6261f32428894",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000528",
+      "filename": "ELV-000528_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000528/ELV-000528_ref.png",
+      "bytes": 1387072,
+      "sha256": "244db4f2cdd6bd5b1547f573585febdb56f350ba8fefad230b44278eed936861",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000531",
+      "filename": "ELV-000531_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000531/ELV-000531_ref.png",
+      "bytes": 1441646,
+      "sha256": "1570d7f95e1d902fef3b7f3d68cc1bd4701a7978fd27fc06f770fc450a722736",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000534",
+      "filename": "ELV-000534_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000534/ELV-000534_ref.png",
+      "bytes": 1393538,
+      "sha256": "b81aff0cca61dda8fbff669dab24e3eb1b2c6b88bb9a868486ce6a2b404b5845",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000536",
+      "filename": "ELV-000536_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000536/ELV-000536_ref.png",
+      "bytes": 1366962,
+      "sha256": "16418052f0c4a8bcea74354a5ca8ae6cc522ae70451070397128b5a6d5d8c27c",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000538",
+      "filename": "ELV-000538_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000538/ELV-000538_ref.png",
+      "bytes": 1372227,
+      "sha256": "ed80693003fab355600ea652b859c42a4d886b4b1d38c87e0ba968d5823fe1bd",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000539",
+      "filename": "ELV-000539_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000539/ELV-000539_ref.png",
+      "bytes": 1312078,
+      "sha256": "2ce0be0a3aff7fbca857be1fa54e33e7ee5d74483d20518456518c649ba76568",
+      "source_archive": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d"
+    },
+    {
+      "character_id": "ELV-000540",
+      "filename": "ELV-000540_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000540/ELV-000540_ref.png",
+      "bytes": 1398725,
+      "sha256": "2186cf140194914a0f618b73b057739cc5e6e680750ec5f73952745fa1199768",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000541",
+      "filename": "ELV-000541_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000541/ELV-000541_ref.png",
+      "bytes": 1498224,
+      "sha256": "8b33864197cace106d08c23753e4baf72d60302fbcdab112bde7bf64a95bbf8a",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000545",
+      "filename": "ELV-000545_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000545/ELV-000545_ref.png",
+      "bytes": 1499190,
+      "sha256": "8966e7775b99616580d92bad8383d656b12c6c7db80aa08982139deb415f1d4c",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000546",
+      "filename": "ELV-000546_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000546/ELV-000546_ref.png",
+      "bytes": 1389763,
+      "sha256": "a96eee295ded04bed4583b055b697c7717819db43bbfdafeaf8b47745dca61a4",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000548",
+      "filename": "ELV-000548_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000548/ELV-000548_ref.png",
+      "bytes": 1406875,
+      "sha256": "2dab2450ab31b6eefcab8d1366a57f9cd5fe8b79cecb203b728087a06f734e4a",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000549",
+      "filename": "ELV-000549_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000549/ELV-000549_ref.png",
+      "bytes": 1426958,
+      "sha256": "4e108951f0969eb033ee647809e8aa10808acb6ac3d81cfd9b834e1f58f7eb80",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000550",
+      "filename": "ELV-000550_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000550/ELV-000550_ref.png",
+      "bytes": 1523833,
+      "sha256": "15e357ac39084d726e256a4e328c48c4cb09fc4afed12050a903a488a34b0863",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000551",
+      "filename": "ELV-000551_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000551/ELV-000551_ref.png",
+      "bytes": 1440170,
+      "sha256": "dc91b968314cb5ac393766cda1fccc0349c8180599291be6fffbc412329bcd31",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000554",
+      "filename": "ELV-000554_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000554/ELV-000554_ref.png",
+      "bytes": 1401410,
+      "sha256": "e3159ddbf02b6c8c7b392a8459fc5e9d114a38bd7c0a943afcf664c7eaf08beb",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000555",
+      "filename": "ELV-000555_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000555/ELV-000555_ref.png",
+      "bytes": 1590680,
+      "sha256": "7c7a9b5840186ea083c2b711427602b36825162b486d8429b15ab2c065d7e0c2",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000557",
+      "filename": "ELV-000557_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000557/ELV-000557_ref.png",
+      "bytes": 1358760,
+      "sha256": "3172a9ddd9e1a9da673c6bb5c6a46bb5587bea2f115a5c4298d326039cf38fff",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000561",
+      "filename": "ELV-000561_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000561/ELV-000561_ref.png",
+      "bytes": 1313960,
+      "sha256": "d8201cef15906367e88a33a85878c8fdcbf3e511c06dcd53fbb6aa3ba4f52461",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000562",
+      "filename": "ELV-000562_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000562/ELV-000562_ref.png",
+      "bytes": 1723632,
+      "sha256": "3fb736d9f4cffce4c64961742793912bc568576c93bb58e83248be301586c8ea",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000566",
+      "filename": "ELV-000566_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000566/ELV-000566_ref.png",
+      "bytes": 1414593,
+      "sha256": "672f7465c1876e239c803e5985eed2108dfed8cd6a5bf0ba26722716f3072b5a",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000567",
+      "filename": "ELV-000567_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000567/ELV-000567_ref.png",
+      "bytes": 1345852,
+      "sha256": "91eda0a49d41aeeb69cc1c80c1f91883a1eb0e15b6ef19c380584a7f17a368b3",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000569",
+      "filename": "ELV-000569_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000569/ELV-000569_ref.png",
+      "bytes": 1412219,
+      "sha256": "2bb84c130b787ae6443d2a9f3faa63f4f6832321abf6718eee4f116eaa5aa018",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000570",
+      "filename": "ELV-000570_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000570/ELV-000570_ref.png",
+      "bytes": 1567262,
+      "sha256": "5845f13fd38c9bc9c90a59ac5a9ceaa6a1ca598e1c93f70903385f63a24575b4",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000571",
+      "filename": "ELV-000571_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000571/ELV-000571_ref.png",
+      "bytes": 1630053,
+      "sha256": "56595946e95893d43f4463050abdd73b509dcf275ae1d6d53c00b17b9d11f7c7",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000572",
+      "filename": "ELV-000572_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000572/ELV-000572_ref.png",
+      "bytes": 1566980,
+      "sha256": "fbc2daa0ad686e6eed99588db76904ea778307a1b942205955065312266c1f18",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000573",
+      "filename": "ELV-000573_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000573/ELV-000573_ref.png",
+      "bytes": 1402510,
+      "sha256": "0bb86bf02a600ca1a75d873e8464a34725aed5ebaff26dc26d6c1fa02b197d3e",
+      "source_archive": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd"
+    },
+    {
+      "character_id": "ELV-000574",
+      "filename": "ELV-000574_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000574/ELV-000574_ref.png",
+      "bytes": 1465882,
+      "sha256": "3d3a38781881ef2e021783b000b5d64d74ac172581ebda9251015f074656b7ce",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000576",
+      "filename": "ELV-000576_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000576/ELV-000576_ref.png",
+      "bytes": 1715964,
+      "sha256": "a798ba4e5a2889c8f8ef64407cd11adb08035478078c13394302d85b6fcdf6d8",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000577",
+      "filename": "ELV-000577_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000577/ELV-000577_ref.png",
+      "bytes": 1348159,
+      "sha256": "c3e8b31009d959d61fba01d5b13ed49a11ccff88716f02aa8f55978ba820bc26",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000579",
+      "filename": "ELV-000579_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000579/ELV-000579_ref.png",
+      "bytes": 1409948,
+      "sha256": "bbbf61e5461fe7c7c54d0857aa164ac341c53c80a6424310fc7473deabe8c1b1",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000585",
+      "filename": "ELV-000585_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000585/ELV-000585_ref.png",
+      "bytes": 1516382,
+      "sha256": "1994d216374579dd8443b51459e4fe3d71cd639c3884670d6ee434d91359ec3b",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000586",
+      "filename": "ELV-000586_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000586/ELV-000586_ref.png",
+      "bytes": 1432576,
+      "sha256": "c4c8784f94d829c31e9a0f20fc6dd35f0ad26a70c0ea9fa41608da1dbf06f8fd",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000587",
+      "filename": "ELV-000587_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000587/ELV-000587_ref.png",
+      "bytes": 1322138,
+      "sha256": "c003111423afbd57dead45f7bec095a719e75270a7986195830cbc4b8549db84",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000588",
+      "filename": "ELV-000588_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000588/ELV-000588_ref.png",
+      "bytes": 1680610,
+      "sha256": "5dc2653cbbc74f86c53fa77c17a1f3ee8ff7f60e0a1c340fedda436222b5a00e",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000589",
+      "filename": "ELV-000589_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000589/ELV-000589_ref.png",
+      "bytes": 1513768,
+      "sha256": "0f3cefe1acd9250a42bae9b878443f919f437a7a77db5023ce68328f6cca1199",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000597",
+      "filename": "ELV-000597_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000597/ELV-000597_ref.png",
+      "bytes": 1333319,
+      "sha256": "f502d567fa30f02a849c07fa946b623ed741cdcd4c1f62d4af1ebc9b6b541c14",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000599",
+      "filename": "ELV-000599_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000599/ELV-000599_ref.png",
+      "bytes": 1515311,
+      "sha256": "ea25d2903219e4423ee9d44f6a48532123a5d62136fe31a74d4c9033bb874723",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000601",
+      "filename": "ELV-000601_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000601/ELV-000601_ref.png",
+      "bytes": 1367328,
+      "sha256": "0fd6c90ae5dc87722c9020fd36ef888aed812676b97ed709abfbca2966896495",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000604",
+      "filename": "ELV-000604_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000604/ELV-000604_ref.png",
+      "bytes": 1388529,
+      "sha256": "54b2f44604e6c5959a6ca521bf30679591e2d7c2e42307e49587b68dc00183aa",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000605",
+      "filename": "ELV-000605_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000605/ELV-000605_ref.png",
+      "bytes": 1478666,
+      "sha256": "c34388f193a671fe3663f8a4e7476534fd6da86fac33c73157a3ce13704e670a",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000608",
+      "filename": "ELV-000608_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000608/ELV-000608_ref.png",
+      "bytes": 1376850,
+      "sha256": "6297245500ca2e6ff1c06608cfb24c8577a836365299c32f7d2bb646584e3bf8",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000613",
+      "filename": "ELV-000613_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000613/ELV-000613_ref.png",
+      "bytes": 1437169,
+      "sha256": "f0424a6d494b000adbe1c46f21c03e898c8164214b66b8c83d905d37d380938f",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000616",
+      "filename": "ELV-000616_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000616/ELV-000616_ref.png",
+      "bytes": 1433951,
+      "sha256": "73b4924de66ad059f276a105c404684ac098f5bb1149083f995596360314ea57",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000617",
+      "filename": "ELV-000617_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000617/ELV-000617_ref.png",
+      "bytes": 1669306,
+      "sha256": "18c2d362f23a665e175a2d78de96776f4269f0af4f5aaab05fa1c2bf3e829fe8",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000619",
+      "filename": "ELV-000619_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000619/ELV-000619_ref.png",
+      "bytes": 1584886,
+      "sha256": "a2f8c5d65d14d7e4f6666f44b7e206c32c08ab734dc6a17113696fc122a4877d",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000624",
+      "filename": "ELV-000624_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000624/ELV-000624_ref.png",
+      "bytes": 1776049,
+      "sha256": "6513afe4654e8f2d036376b0bd7d47b750a3f1f020ea0a4ceafa010eee038525",
+      "source_archive": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+      "source_file_id": "file_00000000133081f59fd931208b552cc3"
+    },
+    {
+      "character_id": "ELV-000625",
+      "filename": "ELV-000625_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000625/ELV-000625_ref.png",
+      "bytes": 1678632,
+      "sha256": "51de1b1c8187d1b2742a863e8509e77b448c9932bbfb7a1398686f43f2d57342",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000626",
+      "filename": "ELV-000626_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000626/ELV-000626_ref.png",
+      "bytes": 1558829,
+      "sha256": "41a96c686de8594dffb8bdd3c8ab19d1d477fe0c15cb913c12cf4219930f05f4",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000627",
+      "filename": "ELV-000627_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000627/ELV-000627_ref.png",
+      "bytes": 1409249,
+      "sha256": "3a36a75c23e5324073fc542c54a2eb802cb77786c4c699a65064ef298d1051a7",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000628",
+      "filename": "ELV-000628_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000628/ELV-000628_ref.png",
+      "bytes": 1481505,
+      "sha256": "2b6eacf6f384a0887bb437dde1598b7a60e8f920653fa509f7251b6745efc97c",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000632",
+      "filename": "ELV-000632_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000632/ELV-000632_ref.png",
+      "bytes": 1467164,
+      "sha256": "0580739556e25a3768a8afebc8f7ce023a57dd05fced04caa8b7d3e89db6d0e3",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000633",
+      "filename": "ELV-000633_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000633/ELV-000633_ref.png",
+      "bytes": 1393380,
+      "sha256": "477e5942cf6e09bcc5434a92d713eba1df0f9dafcf7cd3058628f68660ec8f92",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000634",
+      "filename": "ELV-000634_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000634/ELV-000634_ref.png",
+      "bytes": 1414327,
+      "sha256": "c191e8e9e755c35de7b1a2a0f8183fbe08aca53a4b360d798b6fd70aa4241437",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000637",
+      "filename": "ELV-000637_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000637/ELV-000637_ref.png",
+      "bytes": 1449051,
+      "sha256": "52b345c5829a5d7b6c071b42e857a524e33a9f6b50888ce894f0012033f1d9fb",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000641",
+      "filename": "ELV-000641_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000641/ELV-000641_ref.png",
+      "bytes": 1471237,
+      "sha256": "9dace796865486550ec09f35589dc6ee5541473f68a7eb5aa412b5caebed69ef",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000642",
+      "filename": "ELV-000642_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000642/ELV-000642_ref.png",
+      "bytes": 1432881,
+      "sha256": "257dbf930e17fde76b23c806926448a06c540dd34812524060acd8e5c2fc3b3b",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000643",
+      "filename": "ELV-000643_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000643/ELV-000643_ref.png",
+      "bytes": 1370333,
+      "sha256": "0263865f1e4ba3ce6cb9d9e680275a9647617331830408aa281808e8ed3833a0",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000645",
+      "filename": "ELV-000645_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000645/ELV-000645_ref.png",
+      "bytes": 1554364,
+      "sha256": "e9855811ecdf7d9d2919f0b233bae07e10c5041393558a04495a9ad1aa12f50b",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000646",
+      "filename": "ELV-000646_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000646/ELV-000646_ref.png",
+      "bytes": 1587696,
+      "sha256": "081203a9f3651b14c0c7dcb89c41d131efbf6d41e2a69f27e16e884ca5bc544d",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000647",
+      "filename": "ELV-000647_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000647/ELV-000647_ref.png",
+      "bytes": 1294973,
+      "sha256": "799583b565d0f82cc6806f9e97a93a45648da326d9889c30f2b57ed50034d864",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000651",
+      "filename": "ELV-000651_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000651/ELV-000651_ref.png",
+      "bytes": 1424541,
+      "sha256": "d526a7c418cb975bb0c0af2abd380d3a9a9f82f176c973ee1bd314e906941de4",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000652",
+      "filename": "ELV-000652_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000652/ELV-000652_ref.png",
+      "bytes": 1480563,
+      "sha256": "9406d17af33d291a5bfa97119832ef9cfd36138c698b1a95ae541ccfd4bd6248",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000654",
+      "filename": "ELV-000654_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000654/ELV-000654_ref.png",
+      "bytes": 1425595,
+      "sha256": "bf58b2adc9184ba843c2a65ee076a340a134c72a5977633156cee14e59109b83",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000656",
+      "filename": "ELV-000656_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000656/ELV-000656_ref.png",
+      "bytes": 1367166,
+      "sha256": "c81f1968f75e1c6fa7fad54f59fd6fd77745cc995a3e743ddaae705e8ceef8b3",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000658",
+      "filename": "ELV-000658_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000658/ELV-000658_ref.png",
+      "bytes": 1477624,
+      "sha256": "78441004193c0309141e28f8093c884b254a67134286ce47def8ce6d58500e6c",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000661",
+      "filename": "ELV-000661_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000661/ELV-000661_ref.png",
+      "bytes": 1353797,
+      "sha256": "943543628ccf23babd127cf9ffbe6af1fa5da5d6af4339f0499575d9cd02ab13",
+      "source_archive": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1"
+    },
+    {
+      "character_id": "ELV-000662",
+      "filename": "ELV-000662_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000662/ELV-000662_ref.png",
+      "bytes": 1733459,
+      "sha256": "7d0740d4ac6d84b7dd389b28a0348a9a6b5fb2ce028755b37cfaae21934389c2",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000665",
+      "filename": "ELV-000665_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000665/ELV-000665_ref.png",
+      "bytes": 1521069,
+      "sha256": "aefc2ab320c5a5802dfe7c9c70533775bda1a924bd82e44e73fa3879d94c2cb5",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000666",
+      "filename": "ELV-000666_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000666/ELV-000666_ref.png",
+      "bytes": 1611063,
+      "sha256": "38238ee33d07dde15dbd325873057fad6ec333d45a6aff952604b2c6dffc6ac7",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000668",
+      "filename": "ELV-000668_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000668/ELV-000668_ref.png",
+      "bytes": 1385568,
+      "sha256": "22d65273ff1cca59bed0f8b071fec091171a5e4dfec70c3ad4211fe13f4ad296",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000675",
+      "filename": "ELV-000675_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000675/ELV-000675_ref.png",
+      "bytes": 1552453,
+      "sha256": "bf82744f561b4c5728d29edbb5244233a79edb3ea6088632fc091e6a797e557f",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000676",
+      "filename": "ELV-000676_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000676/ELV-000676_ref.png",
+      "bytes": 1365267,
+      "sha256": "483900d884ab584b6fa0979371691dd0be3cf8cb8eed74d160d9d562c1419d16",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000678",
+      "filename": "ELV-000678_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000678/ELV-000678_ref.png",
+      "bytes": 1444045,
+      "sha256": "edf198f5b6b023bd28e3de14073ef8b68ec814d3214e2575960966de5096d990",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000679",
+      "filename": "ELV-000679_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000679/ELV-000679_ref.png",
+      "bytes": 1590877,
+      "sha256": "3a56f367d15a21ff6e603dfa3f6c2f74fb53dd38acef1ee06bc06ad16c7e9a00",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000680",
+      "filename": "ELV-000680_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000680/ELV-000680_ref.png",
+      "bytes": 1436641,
+      "sha256": "1fd64b6559cb19a3a43cb0737ff4e3720689573e7b1667d57d0ac937506e1c88",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000682",
+      "filename": "ELV-000682_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000682/ELV-000682_ref.png",
+      "bytes": 1727245,
+      "sha256": "305a86bc6ca8875964889378c42bc0a4166aba0d264c11e161c22a704869cd93",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000683",
+      "filename": "ELV-000683_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000683/ELV-000683_ref.png",
+      "bytes": 1296305,
+      "sha256": "75d167039ee08b65970c40ed5bc2368764e818218667c50a92c26fc730cf6e6e",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000688",
+      "filename": "ELV-000688_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000688/ELV-000688_ref.png",
+      "bytes": 1650309,
+      "sha256": "3c45277292540e18cc27b79eb09bc54206f7086bb4bad22b2ca647448a809665",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000690",
+      "filename": "ELV-000690_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000690/ELV-000690_ref.png",
+      "bytes": 1468925,
+      "sha256": "93c6514c0b9484bf91e24a49207ac57d437ac46f3583da2c0c5e3aa8974cff56",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000692",
+      "filename": "ELV-000692_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000692/ELV-000692_ref.png",
+      "bytes": 1379964,
+      "sha256": "a641b51599e15d4aacfe32256ac784e4c51e66256ef48cf86ac81038abf0bef5",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000693",
+      "filename": "ELV-000693_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000693/ELV-000693_ref.png",
+      "bytes": 1394542,
+      "sha256": "d3166340a912ec7e73c35db50ac069c4642260351deaaa7e0cc00bd18365ba71",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000696",
+      "filename": "ELV-000696_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000696/ELV-000696_ref.png",
+      "bytes": 1447764,
+      "sha256": "4617e5e8c96aa12395e6e7046264f20d4ddeaac9a4d23528dbaf60607388685d",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000698",
+      "filename": "ELV-000698_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000698/ELV-000698_ref.png",
+      "bytes": 1346568,
+      "sha256": "65c810a6ee06b9525a760919f665f310c30fc32cb3b875e09522fbb4a149fd52",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000702",
+      "filename": "ELV-000702_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000702/ELV-000702_ref.png",
+      "bytes": 1539172,
+      "sha256": "8110905516f9773b46353190f3f80624167e72d3c48fa00247eb4527082f9036",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000704",
+      "filename": "ELV-000704_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000704/ELV-000704_ref.png",
+      "bytes": 1588544,
+      "sha256": "147e2b4672f6575f2fe8dd664d780ee61495228d6deb440b44b2878a11b4380c",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000705",
+      "filename": "ELV-000705_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000705/ELV-000705_ref.png",
+      "bytes": 1518980,
+      "sha256": "30000a50df7883145bcf1cb510d3f8cbcaf81d44c19d8e32652b846f3e2aae9f",
+      "source_archive": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7"
+    },
+    {
+      "character_id": "ELV-000706",
+      "filename": "ELV-000706_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000706/ELV-000706_ref.png",
+      "bytes": 1420883,
+      "sha256": "8e7fc3acf4c92c3a512304821695563caa78805055a83499cdcaa2a6167a62e3",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000710",
+      "filename": "ELV-000710_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000710/ELV-000710_ref.png",
+      "bytes": 1483008,
+      "sha256": "70d46cecb84cb5e2cc23d507a8dd77784d6f01c4786a8db9500986ee48625e10",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000712",
+      "filename": "ELV-000712_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000712/ELV-000712_ref.png",
+      "bytes": 1361194,
+      "sha256": "ce1b0425c6b514ad998f458e92d35c0d270fc88fb504a617376d3b0087022def",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000715",
+      "filename": "ELV-000715_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000715/ELV-000715_ref.png",
+      "bytes": 1424209,
+      "sha256": "69335fd8e0b7571fbc8b0851faddfac4cfb23b3079bbda423a57d8d00c686415",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000717",
+      "filename": "ELV-000717_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000717/ELV-000717_ref.png",
+      "bytes": 1427865,
+      "sha256": "a9dfa109a87e31e8671e197a5484c72abe70f783eac74d77c95ca553898d6474",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000722",
+      "filename": "ELV-000722_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000722/ELV-000722_ref.png",
+      "bytes": 1441639,
+      "sha256": "aab36411a8a7d111fa94bec164e6b893dd905657b7db07aa5dd99fc3bb2c3109",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000728",
+      "filename": "ELV-000728_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000728/ELV-000728_ref.png",
+      "bytes": 1366194,
+      "sha256": "e7e17e2578bd3bcffa37d37b06dd08d4f122192e1a2ef861a0414721304b060d",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000731",
+      "filename": "ELV-000731_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000731/ELV-000731_ref.png",
+      "bytes": 1553034,
+      "sha256": "83e6840e30482798171b21a36763a118ba463dada6bacfb8e13718a604b33f0e",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000732",
+      "filename": "ELV-000732_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000732/ELV-000732_ref.png",
+      "bytes": 1330265,
+      "sha256": "3729b1a35d8da9dcc47a2e1fb0fe9711bf38b681c220d917d7e950da82cfb5d1",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000733",
+      "filename": "ELV-000733_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000733/ELV-000733_ref.png",
+      "bytes": 1488526,
+      "sha256": "0c12a0711476326df1d2c571dabffd6d0e3ebf39c418a4981b12bde99de6c60c",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000736",
+      "filename": "ELV-000736_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000736/ELV-000736_ref.png",
+      "bytes": 1383366,
+      "sha256": "a9f3e989711a23b573b84a8bde0b74eda42bf897b8ad594c70944892f1315d95",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000737",
+      "filename": "ELV-000737_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000737/ELV-000737_ref.png",
+      "bytes": 1355145,
+      "sha256": "09f616ae1601ba58ed8b9cd2d2457caf3b6c1109dd61c3e2df837a31c45f6f8a",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000738",
+      "filename": "ELV-000738_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000738/ELV-000738_ref.png",
+      "bytes": 1379056,
+      "sha256": "9f7f0fc8f955f700ce46744a0340e75516b5b9ac24e9e202ed6f86a13f47e430",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000741",
+      "filename": "ELV-000741_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000741/ELV-000741_ref.png",
+      "bytes": 1443980,
+      "sha256": "8e2425d2f82f8a1005f79fecde735c403970aa73e7d805025062e34667e06c83",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000743",
+      "filename": "ELV-000743_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000743/ELV-000743_ref.png",
+      "bytes": 1409991,
+      "sha256": "daba02f03be48ee34332b7dfc5d71261618c24cf3cfad6450cef553134ae9198",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000744",
+      "filename": "ELV-000744_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000744/ELV-000744_ref.png",
+      "bytes": 1400073,
+      "sha256": "3eb749853e8260e92411d89a33d7a0c1fb15a3306bb814f8c67cf9e3eea61675",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000745",
+      "filename": "ELV-000745_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000745/ELV-000745_ref.png",
+      "bytes": 1377463,
+      "sha256": "545e173f1ae50c685b1bb799061e96097c2ada799db8943e5d2cc8936db632ea",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000748",
+      "filename": "ELV-000748_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000748/ELV-000748_ref.png",
+      "bytes": 1416405,
+      "sha256": "11872659d1a647aa91c2b5cbaf1ff2e155ce8d173e13328de07ae01beff7ebf4",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000749",
+      "filename": "ELV-000749_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000749/ELV-000749_ref.png",
+      "bytes": 1437041,
+      "sha256": "d9c3fec2a27f21c04aef39c4e13b1fc7433d560cb5a841601b56ecbf400b888a",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000751",
+      "filename": "ELV-000751_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000751/ELV-000751_ref.png",
+      "bytes": 1504956,
+      "sha256": "4dc779e7501cd6ddd46243f42d2d474304cdd079d4855b83aa480609b3204da8",
+      "source_archive": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309"
+    },
+    {
+      "character_id": "ELV-000755",
+      "filename": "ELV-000755_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000755/ELV-000755_ref.png",
+      "bytes": 1638389,
+      "sha256": "3094349a8d286415a1688672d66db96ec97cbaffa2982c9ab79098d9d7c12dc9",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000756",
+      "filename": "ELV-000756_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000756/ELV-000756_ref.png",
+      "bytes": 1453495,
+      "sha256": "f81903297e2f77e162dc9c806805a134e70e1506237fff356e9e1f71e7201118",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000758",
+      "filename": "ELV-000758_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000758/ELV-000758_ref.png",
+      "bytes": 1453619,
+      "sha256": "3ff1c7bb59bdb9404503eb1e7ff405a542ed84841d8bf1f4a5224e3dc092d845",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000760",
+      "filename": "ELV-000760_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000760/ELV-000760_ref.png",
+      "bytes": 1348644,
+      "sha256": "f35584154b9434834e441120211ec58f97af8ff5f904818ad4136d5bd878a970",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000762",
+      "filename": "ELV-000762_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000762/ELV-000762_ref.png",
+      "bytes": 1529511,
+      "sha256": "d27e016bcdcd085b947ea0b2efe788be6a5cddfe45fbebea2a355d8d0772eb9b",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000765",
+      "filename": "ELV-000765_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000765/ELV-000765_ref.png",
+      "bytes": 1514112,
+      "sha256": "8cdd5a5c7676b99afa15ac997d3308368ce097219f98e734800702521c294144",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000768",
+      "filename": "ELV-000768_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000768/ELV-000768_ref.png",
+      "bytes": 1599771,
+      "sha256": "20efd5dc57d1bd4da072482b45076a2f2f7e465e586046aa0e2c08cb6f4e00c8",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000769",
+      "filename": "ELV-000769_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000769/ELV-000769_ref.png",
+      "bytes": 1563529,
+      "sha256": "8d57c70655fbc61b7c27d04f84a7e860b92fa272a7f13cc2767de5e478eaf750",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000771",
+      "filename": "ELV-000771_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000771/ELV-000771_ref.png",
+      "bytes": 1396972,
+      "sha256": "c348a7bfaf01b9ad8f04d34db1d9492c9b09596649b363cbc9c5f564bb014b9b",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000773",
+      "filename": "ELV-000773_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000773/ELV-000773_ref.png",
+      "bytes": 1467797,
+      "sha256": "d844eb9f49dcab7770efcfbe0029b68729f65ac544f88b23b7b5c7aa3e2ed27e",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000776",
+      "filename": "ELV-000776_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000776/ELV-000776_ref.png",
+      "bytes": 1436377,
+      "sha256": "e6732ae0f2cb9d22f9bf705d5d14c779bc07a8bb4e3e9a8b300a7a8a0a3019dc",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000778",
+      "filename": "ELV-000778_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000778/ELV-000778_ref.png",
+      "bytes": 1376667,
+      "sha256": "f88c3fa9f69650588883fce75808ec33e10fa0cbcadc76c29e6a4f7a831d4b27",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000779",
+      "filename": "ELV-000779_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000779/ELV-000779_ref.png",
+      "bytes": 1578036,
+      "sha256": "d8ff28a265d452919971ac03f9061007c9ab0563262b13b022e31bfa94fbb589",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000780",
+      "filename": "ELV-000780_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000780/ELV-000780_ref.png",
+      "bytes": 1401240,
+      "sha256": "f1b43d9e86bb1c30bcd96ec28d9556fe768eceb076caf542184ceb6b11aa94d4",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000782",
+      "filename": "ELV-000782_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000782/ELV-000782_ref.png",
+      "bytes": 1661138,
+      "sha256": "fdf9ea36a8f9def5f5194b2504dd3c276fbaef59b70c9c172f90071f0326ceb1",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000783",
+      "filename": "ELV-000783_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000783/ELV-000783_ref.png",
+      "bytes": 1526648,
+      "sha256": "8a83c3e20201ca42cc8c4312cfbeecce62d882735e498e910db1d0d641f04054",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000785",
+      "filename": "ELV-000785_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000785/ELV-000785_ref.png",
+      "bytes": 1335630,
+      "sha256": "8fb39595d83a23ce7507a75f48cc76e40e6d2fb2b83b24788dd81d8a13c40594",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000787",
+      "filename": "ELV-000787_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000787/ELV-000787_ref.png",
+      "bytes": 1505169,
+      "sha256": "d2fe7230c4d3342d91ba141df753d16c0224e5d8c33d1e70752672323c0381f2",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000788",
+      "filename": "ELV-000788_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000788/ELV-000788_ref.png",
+      "bytes": 1538458,
+      "sha256": "723dd54140ee2195b5397a7a315bd001ab3578b21fdedd03107fd77a06393616",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000790",
+      "filename": "ELV-000790_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000790/ELV-000790_ref.png",
+      "bytes": 1523724,
+      "sha256": "ac6d932e46293360706af36f38aeb0ec99f3cff1d03776cb77b05997faa98c14",
+      "source_archive": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20"
+    },
+    {
+      "character_id": "ELV-000792",
+      "filename": "ELV-000792_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000792/ELV-000792_ref.png",
+      "bytes": 1324548,
+      "sha256": "49ed70ed31333310bdad771c3ff7794f983957fe037d0a9a47602d73e7703949",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000793",
+      "filename": "ELV-000793_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000793/ELV-000793_ref.png",
+      "bytes": 1501379,
+      "sha256": "bf09577bb0a49699c7aa914d04dbdf3e40c91f99f9e87ee82bc27c0a47c3d3c1",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000794",
+      "filename": "ELV-000794_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000794/ELV-000794_ref.png",
+      "bytes": 1463314,
+      "sha256": "8de795a1da68a9fa8a0b0482744090c65027cd26d9f66c2e4f754c079b9ee610",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000796",
+      "filename": "ELV-000796_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000796/ELV-000796_ref.png",
+      "bytes": 1420723,
+      "sha256": "08fdbb5cc59b5d5bd28321177161c6ce48f170805cb04b0dbc1a7dcc68567295",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000797",
+      "filename": "ELV-000797_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000797/ELV-000797_ref.png",
+      "bytes": 1385639,
+      "sha256": "37f32ab28e6f2241e1ac650a10a0d6ad09ec815a13b0bb53e34e1c8ec80fcb27",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000801",
+      "filename": "ELV-000801_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000801/ELV-000801_ref.png",
+      "bytes": 1728083,
+      "sha256": "b4dbd6b643fffbb04c22448cdb3c3ec33ebc3eba4679d69cacebf48f2f43140f",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000804",
+      "filename": "ELV-000804_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000804/ELV-000804_ref.png",
+      "bytes": 1419141,
+      "sha256": "1684161a4bae2352d9fb12fbbd2cae9bd7611e2a7d76f03c471e27cb9798bf2d",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000805",
+      "filename": "ELV-000805_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000805/ELV-000805_ref.png",
+      "bytes": 1420787,
+      "sha256": "e066c98d2504c59de5c6d895dfe89b46480ae0fc5897c836a507eece1c553a3c",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000809",
+      "filename": "ELV-000809_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000809/ELV-000809_ref.png",
+      "bytes": 1375712,
+      "sha256": "0410ce4250dace32ce43c06871e2145375f93bab8fed30ef1fc7fa11a78dd809",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000811",
+      "filename": "ELV-000811_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000811/ELV-000811_ref.png",
+      "bytes": 1582419,
+      "sha256": "8cfe9251d7eb88eeb0cbe9402bc371965058202c2ae26b13adfa6737928746c9",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000813",
+      "filename": "ELV-000813_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000813/ELV-000813_ref.png",
+      "bytes": 1544370,
+      "sha256": "513ca2aeec40fc5fea53454c8ccf5d226e9bc618ac1ff3f07a4dbd8ee6675242",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000815",
+      "filename": "ELV-000815_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000815/ELV-000815_ref.png",
+      "bytes": 1458480,
+      "sha256": "1921be972692a03db79cc2c77a4e1a8f392b032a454cb68df935f922ca99ea27",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    },
+    {
+      "character_id": "ELV-000817",
+      "filename": "ELV-000817_ref.png",
+      "archive_member": "assets/000001-001000/ELV-000817/ELV-000817_ref.png",
+      "bytes": 1434741,
+      "sha256": "3de70da8e6f62a482a25699e74b6b04a78d58ce73fca02db763ffc9201e66275",
+      "source_archive": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+      "source_file_id": "file_000000004020823080030e304ac8e8f7"
+    }
+  ]
+}

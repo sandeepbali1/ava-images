@@ -1,0 +1,666 @@
+{
+  "archive_count": 18,
+  "reference_count": 336,
+  "archives": [
+    {
+      "archive": {
+        "filename": "avalovia-cloud-first-six-20261002.zip",
+        "bytes": 8529603,
+        "sha256": "64a6bad73f0cda0cc0a9eb9e079c1b360cf4ed7d043eb526457374674d83f9b6"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-first-six-20261002.zip.part001",
+          "bytes": 8529603,
+          "sha256": "64a6bad73f0cda0cc0a9eb9e079c1b360cf4ed7d043eb526457374674d83f9b6"
+        }
+      ],
+      "reference_count": 6,
+      "source_file_id": "file_000000007e90822f9bc0c0a677d44154",
+      "character_ids": [
+        "ELV-000101",
+        "ELV-000105",
+        "ELV-000107",
+        "ELV-000108",
+        "ELV-000111",
+        "ELV-000114"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T180934Z-20-refs.zip",
+        "bytes": 29190049,
+        "sha256": "e158794b3263d3fad5fb0ee2c452404736667a9bdbc70fd60147637bdce32358"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T180934Z-20-refs.zip.part001",
+          "bytes": 29190049,
+          "sha256": "e158794b3263d3fad5fb0ee2c452404736667a9bdbc70fd60147637bdce32358"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000b68881f5816a158e2efb65a9",
+      "character_ids": [
+        "ELV-000118",
+        "ELV-000121",
+        "ELV-000127",
+        "ELV-000129",
+        "ELV-000133",
+        "ELV-000135",
+        "ELV-000138",
+        "ELV-000139",
+        "ELV-000140",
+        "ELV-000141",
+        "ELV-000142",
+        "ELV-000148",
+        "ELV-000150",
+        "ELV-000153",
+        "ELV-000154",
+        "ELV-000156",
+        "ELV-000158",
+        "ELV-000159",
+        "ELV-000160",
+        "ELV-000162"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T181250Z-20-refs.zip",
+        "bytes": 29505541,
+        "sha256": "1a2c2b4c973bbeab5f575a822f34b4ed651a5e47712e308437224579c9a08c47"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T181250Z-20-refs.zip.part001",
+          "bytes": 29505541,
+          "sha256": "1a2c2b4c973bbeab5f575a822f34b4ed651a5e47712e308437224579c9a08c47"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_000000009d3081f681c9fd5c9f963dbf",
+      "character_ids": [
+        "ELV-000163",
+        "ELV-000165",
+        "ELV-000168",
+        "ELV-000171",
+        "ELV-000172",
+        "ELV-000173",
+        "ELV-000174",
+        "ELV-000175",
+        "ELV-000177",
+        "ELV-000181",
+        "ELV-000182",
+        "ELV-000184",
+        "ELV-000188",
+        "ELV-000190",
+        "ELV-000192",
+        "ELV-000193",
+        "ELV-000197",
+        "ELV-000200",
+        "ELV-000205",
+        "ELV-000207"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T181745Z-17-refs.zip",
+        "bytes": 24628781,
+        "sha256": "2a033fc66d47e58df5dadfbf0792aa5d01eccae9617988222075f03405ad53f1"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T181745Z-17-refs.zip.part001",
+          "bytes": 24628781,
+          "sha256": "2a033fc66d47e58df5dadfbf0792aa5d01eccae9617988222075f03405ad53f1"
+        }
+      ],
+      "reference_count": 17,
+      "source_file_id": "file_000000001e9881f7bb7442a6dffa7c6f",
+      "character_ids": [
+        "ELV-000206",
+        "ELV-000211",
+        "ELV-000214",
+        "ELV-000217",
+        "ELV-000219",
+        "ELV-000222",
+        "ELV-000223",
+        "ELV-000224",
+        "ELV-000229",
+        "ELV-000230",
+        "ELV-000233",
+        "ELV-000234",
+        "ELV-000236",
+        "ELV-000241",
+        "ELV-000246",
+        "ELV-000247",
+        "ELV-000250"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T182624Z-20-refs.zip",
+        "bytes": 29133422,
+        "sha256": "b98f03d342aa90c0924fd06d60f937146d0286b2801046900f2c61ea9a2979b7"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T182624Z-20-refs.zip.part001",
+          "bytes": 29133422,
+          "sha256": "b98f03d342aa90c0924fd06d60f937146d0286b2801046900f2c61ea9a2979b7"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000796481f7afe72febcf414d0e",
+      "character_ids": [
+        "ELV-000252",
+        "ELV-000253",
+        "ELV-000260",
+        "ELV-000263",
+        "ELV-000264",
+        "ELV-000267",
+        "ELV-000269",
+        "ELV-000270",
+        "ELV-000271",
+        "ELV-000274",
+        "ELV-000277",
+        "ELV-000279",
+        "ELV-000280",
+        "ELV-000283",
+        "ELV-000284",
+        "ELV-000289",
+        "ELV-000290",
+        "ELV-000291",
+        "ELV-000292",
+        "ELV-000294"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T183221Z-20-refs.zip",
+        "bytes": 29966779,
+        "sha256": "dc416beafae106ae63ad651d19de71e357480c1452901e8a49125d0c37cf101d"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T183221Z-20-refs.zip.part001",
+          "bytes": 29966779,
+          "sha256": "dc416beafae106ae63ad651d19de71e357480c1452901e8a49125d0c37cf101d"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000a21081f798947486eea52920",
+      "character_ids": [
+        "ELV-000296",
+        "ELV-000297",
+        "ELV-000301",
+        "ELV-000302",
+        "ELV-000304",
+        "ELV-000308",
+        "ELV-000309",
+        "ELV-000310",
+        "ELV-000311",
+        "ELV-000313",
+        "ELV-000314",
+        "ELV-000319",
+        "ELV-000324",
+        "ELV-000329",
+        "ELV-000331",
+        "ELV-000332",
+        "ELV-000335",
+        "ELV-000336",
+        "ELV-000338",
+        "ELV-000343"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T184052Z-20-refs.zip",
+        "bytes": 29347139,
+        "sha256": "c54a662a383a83fb98add735f21104491944c6fcc13b390f454347254b22039f"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T184052Z-20-refs.zip.part001",
+          "bytes": 29347139,
+          "sha256": "c54a662a383a83fb98add735f21104491944c6fcc13b390f454347254b22039f"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000a8dc81fdbd1224eb5f477b84",
+      "character_ids": [
+        "ELV-000344",
+        "ELV-000346",
+        "ELV-000348",
+        "ELV-000350",
+        "ELV-000351",
+        "ELV-000352",
+        "ELV-000353",
+        "ELV-000354",
+        "ELV-000357",
+        "ELV-000358",
+        "ELV-000359",
+        "ELV-000361",
+        "ELV-000363",
+        "ELV-000364",
+        "ELV-000365",
+        "ELV-000366",
+        "ELV-000367",
+        "ELV-000371",
+        "ELV-000372",
+        "ELV-000376"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T184749Z-20-refs.zip",
+        "bytes": 29518127,
+        "sha256": "f8f267474a9846b88514dd0c02e5640a42df196d002d5ffaa61c32762741b4a4"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T184749Z-20-refs.zip.part001",
+          "bytes": 29518127,
+          "sha256": "f8f267474a9846b88514dd0c02e5640a42df196d002d5ffaa61c32762741b4a4"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_0000000062788230a1b668fda4f6b5f0",
+      "character_ids": [
+        "ELV-000377",
+        "ELV-000379",
+        "ELV-000381",
+        "ELV-000384",
+        "ELV-000391",
+        "ELV-000392",
+        "ELV-000393",
+        "ELV-000399",
+        "ELV-000400",
+        "ELV-000401",
+        "ELV-000402",
+        "ELV-000403",
+        "ELV-000409",
+        "ELV-000411",
+        "ELV-000413",
+        "ELV-000414",
+        "ELV-000417",
+        "ELV-000419",
+        "ELV-000420",
+        "ELV-000422"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191249Z-20-refs.zip",
+        "bytes": 28212343,
+        "sha256": "22c59a56f3a24a2298ddd93ac5d8db547ee5e175d4c70f0f2b1478b3ca33a1b1"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191249Z-20-refs.zip.part001",
+          "bytes": 28212343,
+          "sha256": "22c59a56f3a24a2298ddd93ac5d8db547ee5e175d4c70f0f2b1478b3ca33a1b1"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_0000000093cc820c8382c3f61c77af18",
+      "character_ids": [
+        "ELV-000424",
+        "ELV-000425",
+        "ELV-000426",
+        "ELV-000428",
+        "ELV-000429",
+        "ELV-000431",
+        "ELV-000432",
+        "ELV-000433",
+        "ELV-000434",
+        "ELV-000443",
+        "ELV-000446",
+        "ELV-000449",
+        "ELV-000452",
+        "ELV-000453",
+        "ELV-000454",
+        "ELV-000457",
+        "ELV-000458",
+        "ELV-000461",
+        "ELV-000462",
+        "ELV-000463"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191325Z-20-refs.zip",
+        "bytes": 28417058,
+        "sha256": "3166997178e4acaaa2c4bd72e98d9c1c871ba91e6b3e5984ed48f59e9d289741"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191325Z-20-refs.zip.part001",
+          "bytes": 28417058,
+          "sha256": "3166997178e4acaaa2c4bd72e98d9c1c871ba91e6b3e5984ed48f59e9d289741"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000f27c8230a24ab07281b496fb",
+      "character_ids": [
+        "ELV-000464",
+        "ELV-000466",
+        "ELV-000467",
+        "ELV-000469",
+        "ELV-000470",
+        "ELV-000471",
+        "ELV-000474",
+        "ELV-000477",
+        "ELV-000481",
+        "ELV-000482",
+        "ELV-000485",
+        "ELV-000486",
+        "ELV-000488",
+        "ELV-000489",
+        "ELV-000491",
+        "ELV-000494",
+        "ELV-000496",
+        "ELV-000498",
+        "ELV-000500",
+        "ELV-000502"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191412Z-20-refs.zip",
+        "bytes": 28572466,
+        "sha256": "915dd1b4f185900b7dbdbfb4c6045b1846ee8997ae834629a71eb075558d9dd1"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191412Z-20-refs.zip.part001",
+          "bytes": 28572466,
+          "sha256": "915dd1b4f185900b7dbdbfb4c6045b1846ee8997ae834629a71eb075558d9dd1"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000c65c81f587cee814fd05088d",
+      "character_ids": [
+        "ELV-000503",
+        "ELV-000504",
+        "ELV-000506",
+        "ELV-000507",
+        "ELV-000509",
+        "ELV-000510",
+        "ELV-000515",
+        "ELV-000516",
+        "ELV-000517",
+        "ELV-000518",
+        "ELV-000520",
+        "ELV-000521",
+        "ELV-000522",
+        "ELV-000523",
+        "ELV-000528",
+        "ELV-000531",
+        "ELV-000534",
+        "ELV-000536",
+        "ELV-000538",
+        "ELV-000539"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191456Z-20-refs.zip",
+        "bytes": 29127542,
+        "sha256": "6926d9040a3bbef98973e2b76b3123939f747050ebb7968681f0f1ca06e3aed2"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191456Z-20-refs.zip.part001",
+          "bytes": 29127542,
+          "sha256": "6926d9040a3bbef98973e2b76b3123939f747050ebb7968681f0f1ca06e3aed2"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_000000008cfc822faa1d80c55463e5dd",
+      "character_ids": [
+        "ELV-000540",
+        "ELV-000541",
+        "ELV-000545",
+        "ELV-000546",
+        "ELV-000548",
+        "ELV-000549",
+        "ELV-000550",
+        "ELV-000551",
+        "ELV-000554",
+        "ELV-000555",
+        "ELV-000557",
+        "ELV-000561",
+        "ELV-000562",
+        "ELV-000566",
+        "ELV-000567",
+        "ELV-000569",
+        "ELV-000570",
+        "ELV-000571",
+        "ELV-000572",
+        "ELV-000573"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191558Z-20-refs.zip",
+        "bytes": 29577326,
+        "sha256": "c525e665a6935f8bacf2c3e0d7328d0021fe68fdb06b848edea8b0374f958e1b"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191558Z-20-refs.zip.part001",
+          "bytes": 29577326,
+          "sha256": "c525e665a6935f8bacf2c3e0d7328d0021fe68fdb06b848edea8b0374f958e1b"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000133081f59fd931208b552cc3",
+      "character_ids": [
+        "ELV-000574",
+        "ELV-000576",
+        "ELV-000577",
+        "ELV-000579",
+        "ELV-000585",
+        "ELV-000586",
+        "ELV-000587",
+        "ELV-000588",
+        "ELV-000589",
+        "ELV-000597",
+        "ELV-000599",
+        "ELV-000601",
+        "ELV-000604",
+        "ELV-000605",
+        "ELV-000608",
+        "ELV-000613",
+        "ELV-000616",
+        "ELV-000617",
+        "ELV-000619",
+        "ELV-000624"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191640Z-20-refs.zip",
+        "bytes": 28903390,
+        "sha256": "ab06d27aa197845f690c61672414613d8d7f9a9fb586f838c7e1f9b82e75ddde"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191640Z-20-refs.zip.part001",
+          "bytes": 28903390,
+          "sha256": "ab06d27aa197845f690c61672414613d8d7f9a9fb586f838c7e1f9b82e75ddde"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000b05081fd90d729018694c7b1",
+      "character_ids": [
+        "ELV-000625",
+        "ELV-000626",
+        "ELV-000627",
+        "ELV-000628",
+        "ELV-000632",
+        "ELV-000633",
+        "ELV-000634",
+        "ELV-000637",
+        "ELV-000641",
+        "ELV-000642",
+        "ELV-000643",
+        "ELV-000645",
+        "ELV-000646",
+        "ELV-000647",
+        "ELV-000651",
+        "ELV-000652",
+        "ELV-000654",
+        "ELV-000656",
+        "ELV-000658",
+        "ELV-000661"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191842Z-20-refs.zip",
+        "bytes": 29809500,
+        "sha256": "bbe4c13a3d41251a1331a97c541ee1992cbc0523574c7e08791dfb1898f540e7"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191842Z-20-refs.zip.part001",
+          "bytes": 29809500,
+          "sha256": "bbe4c13a3d41251a1331a97c541ee1992cbc0523574c7e08791dfb1898f540e7"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000326481f5a3b0c3a823070cf7",
+      "character_ids": [
+        "ELV-000662",
+        "ELV-000665",
+        "ELV-000666",
+        "ELV-000668",
+        "ELV-000675",
+        "ELV-000676",
+        "ELV-000678",
+        "ELV-000679",
+        "ELV-000680",
+        "ELV-000682",
+        "ELV-000683",
+        "ELV-000688",
+        "ELV-000690",
+        "ELV-000692",
+        "ELV-000693",
+        "ELV-000696",
+        "ELV-000698",
+        "ELV-000702",
+        "ELV-000704",
+        "ELV-000705"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T191933Z-20-refs.zip",
+        "bytes": 28212505,
+        "sha256": "f3d736277e04d0296094efcb402feab143db16d4150318d773c32fc7cfdc8013"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T191933Z-20-refs.zip.part001",
+          "bytes": 28212505,
+          "sha256": "f3d736277e04d0296094efcb402feab143db16d4150318d773c32fc7cfdc8013"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_0000000086cc81f5b086d5cb6627f309",
+      "character_ids": [
+        "ELV-000706",
+        "ELV-000710",
+        "ELV-000712",
+        "ELV-000715",
+        "ELV-000717",
+        "ELV-000722",
+        "ELV-000728",
+        "ELV-000731",
+        "ELV-000732",
+        "ELV-000733",
+        "ELV-000736",
+        "ELV-000737",
+        "ELV-000738",
+        "ELV-000741",
+        "ELV-000743",
+        "ELV-000744",
+        "ELV-000745",
+        "ELV-000748",
+        "ELV-000749",
+        "ELV-000751"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T192048Z-20-refs.zip",
+        "bytes": 29659735,
+        "sha256": "72c443d06ae95ada1b07bc55571e6fe173bd0d5bca1a751ff2e4f42c9d08ebf0"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T192048Z-20-refs.zip.part001",
+          "bytes": 29659735,
+          "sha256": "72c443d06ae95ada1b07bc55571e6fe173bd0d5bca1a751ff2e4f42c9d08ebf0"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000d22c81fd8d289b1df2ea8e20",
+      "character_ids": [
+        "ELV-000755",
+        "ELV-000756",
+        "ELV-000758",
+        "ELV-000760",
+        "ELV-000762",
+        "ELV-000765",
+        "ELV-000768",
+        "ELV-000769",
+        "ELV-000771",
+        "ELV-000773",
+        "ELV-000776",
+        "ELV-000778",
+        "ELV-000779",
+        "ELV-000780",
+        "ELV-000782",
+        "ELV-000783",
+        "ELV-000785",
+        "ELV-000787",
+        "ELV-000788",
+        "ELV-000790"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T192156Z-13-refs.zip",
+        "bytes": 18938976,
+        "sha256": "5cdcc300a46874213766ab3df96fd0db65f5c7c9fcb36e9c1d2f8a5fe32b15f4"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T192156Z-13-refs.zip.part001",
+          "bytes": 18938976,
+          "sha256": "5cdcc300a46874213766ab3df96fd0db65f5c7c9fcb36e9c1d2f8a5fe32b15f4"
+        }
+      ],
+      "reference_count": 13,
+      "source_file_id": "file_000000004020823080030e304ac8e8f7",
+      "character_ids": [
+        "ELV-000792",
+        "ELV-000793",
+        "ELV-000794",
+        "ELV-000796",
+        "ELV-000797",
+        "ELV-000801",
+        "ELV-000804",
+        "ELV-000805",
+        "ELV-000809",
+        "ELV-000811",
+        "ELV-000813",
+        "ELV-000815",
+        "ELV-000817"
+      ]
+    }
+  ]
+}
