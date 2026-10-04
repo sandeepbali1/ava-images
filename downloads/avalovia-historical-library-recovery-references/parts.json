@@ -1,0 +1,69 @@
+{
+  "archive_count": 3,
+  "reference_count": 46,
+  "archives": [
+    {
+      "archive": {
+        "filename": "avalovia-recovered-returned-images-20261002.zip",
+        "bytes": 16778055,
+        "sha256": "4e4eb43fc8766b1ca0eb491b2d35a0f7195d5452ee6c200bb81e74091a458954"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-recovered-returned-images-20261002.zip.part001",
+          "bytes": 16778055,
+          "sha256": "4e4eb43fc8766b1ca0eb491b2d35a0f7195d5452ee6c200bb81e74091a458954"
+        }
+      ],
+      "reference_count": 11,
+      "source_archive": "avalovia-recovered-returned-images-20261002.zip",
+      "source_bytes": 16778055,
+      "source_sha256": "4e4eb43fc8766b1ca0eb491b2d35a0f7195d5452ee6c200bb81e74091a458954",
+      "source_file_id": "file_00000000209c81f59a25bd18658187a1",
+      "source_library_file_id": "libfile_0b5d909ebcac8191b0a475f848d69f2e",
+      "excluded_profile_count": 0
+    },
+    {
+      "archive": {
+        "filename": "avalovia-historical-cloud-originals-01-references-only.zip",
+        "bytes": 27866342,
+        "sha256": "73d3aae7d378c57d69b82e583df49069c048a7550ef39e2fab1309d4f4224d7e"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-historical-cloud-originals-01-references-only.zip.part001",
+          "bytes": 27866342,
+          "sha256": "73d3aae7d378c57d69b82e583df49069c048a7550ef39e2fab1309d4f4224d7e"
+        }
+      ],
+      "reference_count": 18,
+      "source_archive": "avalovia-historical-cloud-originals-01.zip",
+      "source_bytes": 29800391,
+      "source_sha256": "df05ff331d89693fe955fdf5d0b57de547c0bfc907c28c0129d70bd37dc97077",
+      "source_file_id": "file_00000000b81c81f99fe0fa200b6466e8",
+      "source_library_file_id": "libfile_e384752f99c0819199c719f69bc1bd5f",
+      "excluded_profile_count": 1
+    },
+    {
+      "archive": {
+        "filename": "avalovia-historical-cloud-originals-02.zip",
+        "bytes": 26178428,
+        "sha256": "10ff28e7998d8db38e14f89604faa6d47f3f95fc123421e19b862a8a516add23"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-historical-cloud-originals-02.zip.part001",
+          "bytes": 26178428,
+          "sha256": "10ff28e7998d8db38e14f89604faa6d47f3f95fc123421e19b862a8a516add23"
+        }
+      ],
+      "reference_count": 17,
+      "source_archive": "avalovia-historical-cloud-originals-02.zip",
+      "source_bytes": 26178428,
+      "source_sha256": "10ff28e7998d8db38e14f89604faa6d47f3f95fc123421e19b862a8a516add23",
+      "source_file_id": "file_00000000d3cc820cad2407cd31b3933b",
+      "source_library_file_id": "libfile_5bfd841907288191b10f606fcd394c4c",
+      "excluded_profile_count": 0
+    }
+  ]
+}
