@@ -1,6 +1,6 @@
 {
-  "archive_count": 36,
-  "reference_count": 682,
+  "archive_count": 42,
+  "reference_count": 802,
   "archives": [
     {
       "archive": {
@@ -1330,6 +1330,234 @@
         "ELV-001545",
         "ELV-001546",
         "ELV-001549"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T205846Z-20-refs.zip",
+        "bytes": 29120060,
+        "sha256": "be99a82a0839a022235df65462e01fb9c678201907fbc883a8b5b35be0b05fe6"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T205846Z-20-refs.zip.part001",
+          "bytes": 29120060,
+          "sha256": "be99a82a0839a022235df65462e01fb9c678201907fbc883a8b5b35be0b05fe6"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000895c81f5b960611710765aab",
+      "character_ids": [
+        "ELV-010561",
+        "ELV-010564",
+        "ELV-010567",
+        "ELV-010569",
+        "ELV-010571",
+        "ELV-010573",
+        "ELV-010575",
+        "ELV-010577",
+        "ELV-010578",
+        "ELV-010579",
+        "ELV-010581",
+        "ELV-010583",
+        "ELV-010590",
+        "ELV-010591",
+        "ELV-010601",
+        "ELV-010604",
+        "ELV-010605",
+        "ELV-010608",
+        "ELV-010609",
+        "ELV-010613"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T210550Z-20-refs.zip",
+        "bytes": 29044440,
+        "sha256": "f9a09fda6d6ad483d97a3462488edee6eec5521907e0082e5fa0e4c98ebf0ec6"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T210550Z-20-refs.zip.part001",
+          "bytes": 29044440,
+          "sha256": "f9a09fda6d6ad483d97a3462488edee6eec5521907e0082e5fa0e4c98ebf0ec6"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000553481f5952833cea3ca8297",
+      "character_ids": [
+        "ELV-010588",
+        "ELV-010599",
+        "ELV-010610",
+        "ELV-010615",
+        "ELV-010616",
+        "ELV-010618",
+        "ELV-010620",
+        "ELV-010623",
+        "ELV-010626",
+        "ELV-010629",
+        "ELV-010630",
+        "ELV-010632",
+        "ELV-010633",
+        "ELV-010634",
+        "ELV-010635",
+        "ELV-010637",
+        "ELV-010638",
+        "ELV-010640",
+        "ELV-010641",
+        "ELV-010642"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T210611Z-20-refs.zip",
+        "bytes": 28661552,
+        "sha256": "a44ed7817fa227d595e165d17f7c2d4214457bf325c954f80666b37f3c59458c"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T210611Z-20-refs.zip.part001",
+          "bytes": 28661552,
+          "sha256": "a44ed7817fa227d595e165d17f7c2d4214457bf325c954f80666b37f3c59458c"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000620881f6b954a29d34292899",
+      "character_ids": [
+        "ELV-010644",
+        "ELV-010648",
+        "ELV-010649",
+        "ELV-010650",
+        "ELV-010651",
+        "ELV-010652",
+        "ELV-010657",
+        "ELV-010658",
+        "ELV-010660",
+        "ELV-010666",
+        "ELV-010668",
+        "ELV-010670",
+        "ELV-010671",
+        "ELV-010672",
+        "ELV-010674",
+        "ELV-010675",
+        "ELV-010679",
+        "ELV-010680",
+        "ELV-010683",
+        "ELV-010684"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T210634Z-20-refs.zip",
+        "bytes": 29433043,
+        "sha256": "0ee7f3b2c9c48cc0d738865400fa713cf69a53e12ea401a1499df199add61add"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T210634Z-20-refs.zip.part001",
+          "bytes": 29433043,
+          "sha256": "0ee7f3b2c9c48cc0d738865400fa713cf69a53e12ea401a1499df199add61add"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_00000000a8bc81f7b3df112f5d3ac7ed",
+      "character_ids": [
+        "ELV-010687",
+        "ELV-010689",
+        "ELV-010691",
+        "ELV-010692",
+        "ELV-010694",
+        "ELV-010696",
+        "ELV-010697",
+        "ELV-010701",
+        "ELV-010702",
+        "ELV-010706",
+        "ELV-010712",
+        "ELV-010713",
+        "ELV-010715",
+        "ELV-010717",
+        "ELV-010720",
+        "ELV-010721",
+        "ELV-010722",
+        "ELV-010724",
+        "ELV-010726",
+        "ELV-010730"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T210833Z-20-refs.zip",
+        "bytes": 29040674,
+        "sha256": "f3968eb9d254d317a6b316a64f7f798bf5333d4b3764156d3dcfd04d565e4a6f"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T210833Z-20-refs.zip.part001",
+          "bytes": 29040674,
+          "sha256": "f3968eb9d254d317a6b316a64f7f798bf5333d4b3764156d3dcfd04d565e4a6f"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_000000006e7081f5b1bd10e246e6e75d",
+      "character_ids": [
+        "ELV-010714",
+        "ELV-010716",
+        "ELV-010731",
+        "ELV-010733",
+        "ELV-010736",
+        "ELV-010737",
+        "ELV-010739",
+        "ELV-010741",
+        "ELV-010748",
+        "ELV-010749",
+        "ELV-010751",
+        "ELV-010752",
+        "ELV-010755",
+        "ELV-010759",
+        "ELV-010761",
+        "ELV-010764",
+        "ELV-010767",
+        "ELV-010771",
+        "ELV-010772",
+        "ELV-010776"
+      ]
+    },
+    {
+      "archive": {
+        "filename": "avalovia-cloud-20261002T211630Z-20-refs.zip",
+        "bytes": 28618698,
+        "sha256": "be833ae717b2d2cadde116ba8783ffa3ed69340e43ff5468745a5826bda2fff6"
+      },
+      "parts": [
+        {
+          "filename": "avalovia-cloud-20261002T211630Z-20-refs.zip.part001",
+          "bytes": 28618698,
+          "sha256": "be833ae717b2d2cadde116ba8783ffa3ed69340e43ff5468745a5826bda2fff6"
+        }
+      ],
+      "reference_count": 20,
+      "source_file_id": "file_0000000041b88230babf010634035374",
+      "character_ids": [
+        "ELV-010747",
+        "ELV-010766",
+        "ELV-010770",
+        "ELV-010779",
+        "ELV-010780",
+        "ELV-010782",
+        "ELV-010783",
+        "ELV-010786",
+        "ELV-010787",
+        "ELV-010789",
+        "ELV-010791",
+        "ELV-010794",
+        "ELV-010795",
+        "ELV-010796",
+        "ELV-010799",
+        "ELV-010800",
+        "ELV-010801",
+        "ELV-010803",
+        "ELV-010804",
+        "ELV-010809"
       ]
     }
   ]
