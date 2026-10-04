@@ -1,0 +1,23 @@
+{
+  "reference_count": 3,
+  "files": [
+    {
+      "character_id": "ELV-000321",
+      "filename": "ELV-000321_ref.png",
+      "bytes": 1660325,
+      "sha256": "d6f3c605c22788942bbb644c1423c10fe64461efafa0017ac58762ae5bd8db8b"
+    },
+    {
+      "character_id": "ELV-000746",
+      "filename": "ELV-000746_ref.png",
+      "bytes": 1309474,
+      "sha256": "f54dd0122d403457da916df2474b55d708c13c74cf7ba5a2a2cb55816c9b0361"
+    },
+    {
+      "character_id": "ELV-001118",
+      "filename": "ELV-001118_ref.png",
+      "bytes": 1528983,
+      "sha256": "849dcf6fac9d06ba77f0ba3fcdb68abeb2208e0fb82b95bc53f6b1139236329f"
+    }
+  ]
+}
