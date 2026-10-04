@@ -1,6 +1,6 @@
 # Avalovia primary Library recovery references
 
-802 distinct existing reference originals in 42 byte-preserved source ZIP archives. These are recovered exports, not newly generated images. No profiles are included.
+1137 distinct existing reference originals in 60 byte-preserved source ZIP archives. These are recovered exports, not newly generated images. No profiles are included.
 
 Each archive is stored as one `.zip.part001` file under 64 MiB. Download the parts and `parts.json`, then run:
 
